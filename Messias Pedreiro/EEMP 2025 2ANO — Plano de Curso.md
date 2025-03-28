@@ -1,5 +1,7 @@
 # 2º ANO: Plano de Curso (2025)
-  
+
+[[README|Índice]] | [[EEFE 2025|Frei Egídio]] | [[EEMP 2025|Messias Pedreiro]]
+
 [🏫 Robson](https://sites.google.com/view/professorrobson/in%C3%ADcio?authuser=0)
 
 - [Início](https://sites.google.com/view/professorrobson/in%C3%ADcio?authuser=0)
