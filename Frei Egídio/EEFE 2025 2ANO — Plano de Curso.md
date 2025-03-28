@@ -1,0 +1,210 @@
+  
+
+[🏫 Robson](https://sites.google.com/view/professorrobson/in%C3%ADcio?authuser=0)
+
+- [Início](https://sites.google.com/view/professorrobson/in%C3%ADcio?authuser=0)
+    
+
+# PLANO DE CURSO
+
+# 
+
+1º BIMESTRE
+
+### 
+
+Literatura
+
+Barroco e Arcadismo (capítulos 5 e 7) (revisão)
+
+Romantismo (Capítulo 7)
+
+📘 • [Romantismo: o arrebatamento das emoções](https://drive.google.com/file/d/1cRVK1Y8oDmxsV7o2LscYCDtGgpBUG0UT/view?usp=share_link)
+
+📘 • [Romantismo no Brasil: as gerações poéticas](https://drive.google.com/file/d/1ZIoo23y4Uioj4VREds6zAFAkGVVx0c3T/view?usp=share_link)
+
+📝 • [Poesia do Romantismo](https://drive.google.com/file/d/18bJpQQEKUwDqSYiutInEih_9gWMgyWOl/view?usp=drivesdk)
+
+🖥️ • [Romantismo: 1ª fase (slide)](https://drive.google.com/file/d/1XXRG9eHImCHqwroywm0VphyAsuwgqwlB/view?usp=drivesdk)
+
+  
+
+### 
+
+Gramática
+
+Classes Gramaticais
+
+🖥️ • [Classes de Palavras (slide)](https://drive.google.com/file/d/1v2CgiBOw307PzD2rPQkN2OsUmR02Ku2_/view?usp=drivesdk)
+
+Substantivo (Capítulo 21)
+
+🖥️ • [Substantivo (slide)](https://drive.google.com/file/d/1A0sqBWtBJ1VszVFPglBKktXWzfU3kPOR/view?usp=drivesdk)
+
+📝 • [Exercícios](https://drive.google.com/file/d/1s5Zv5TrdhB0s8oOipxITru9mCrZO8ycr/view?usp=drivesdk) 
+
+Adjetivo (Capítulo 21)
+
+📝 • [Exercícios](https://drive.google.com/file/d/1QrvBGMVQFXfi7I7A9L6EIdqQCiHK7QSi/view?usp=drivesdk)
+
+  
+
+### 
+
+Texto e Interpretação
+
+Semiótica (Revisão)
+
+Explorando e explorando a diversidade literária: Análise de obras em poesia e prosa.
+
+  
+
+### 
+
+Obra Literária
+
+📘 • [Iracema, de José de Alencar](https://drive.google.com/file/d/10vNj-i5TWeL8JFB7XwsoBW482nx4dYq_/view?usp=sharing)
+
+📘 • [Glossário de Iracema](https://drive.google.com/file/d/1YjJntTAHDvtnyD59xRKDVqSnqRaWThRb/view?usp=sharing) 
+
+# 
+
+2º BIMESTRE
+
+### 
+
+Literatura
+
+"Capítulo 7: Romantismo 2ª e 3ª geração.
+
+Leitura e interpretação: Livro Noite na Taverna
+
+Capítulo 22: Numeral e artigo
+
+Capítulo 23: Pronome
+
+  
+
+### 
+
+Gramática
+
+Plano de curso:
+
+Variação linguística
+
+Progressão temática
+
+  
+
+### 
+
+Texto e Interpretação
+
+Gêneros e tipos textuais
+
+Debates
+
+  
+
+### 
+
+Obra Literária
+
+Noite na Taverna
+
+# 
+
+3º BIMESTRE
+
+### 
+
+Literatura
+
+" "Capítulo 8: Realismo e Naturalismo
+
+Leitura e interpretação: Livros: Dom Casmurro e O Cortiço em HQ.
+
+  
+
+### 
+
+Gramática
+
+Capítulo 23: Pronome
+
+Capítulo 24: Verbo
+
+  
+
+### 
+
+Texto e Interpretação
+
+Debates
+
+Tipos de linguagens
+
+Interdiscursividade
+
+  
+
+### 
+
+Obra Literária
+
+Contos de Machado de Assis
+
+  
+
+# 
+
+4º BIMESTRE
+
+### 
+
+Literatura
+
+" "Capítulo 9: Parnasianismo e Simbolismo
+
+Leitura e interpretação: Poemas parnasianos e simbolistas
+
+  
+
+### 
+
+Gramática
+
+Capítulo 24: Verbo
+
+Capítulo 25: Advérbio
+
+Capítulo 26:Preposição e conjunção
+
+  
+
+### 
+
+Texto e Interpretação
+
+Gêneros discursivos
+
+Figuras de linguagem
+
+Linguagem literária
+
+Gêneros argumentativos
+
+  
+
+### 
+
+Obra Literária
+
+O Cortiço
+
+  
+
+📘 • [Texto Dissertativo-Argumentativo](https://drive.google.com/file/d/1qGRX16po0DpGT6_HnR2dZMk87Din0soa/view?usp=drivesdk) 
+
+Robson F. Vilela, 2025
