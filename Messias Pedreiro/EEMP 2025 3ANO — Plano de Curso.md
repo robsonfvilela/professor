@@ -2,6 +2,9 @@
 
 [[README|Índice]] | [[EEFE 2025|Frei Egídio]] | [[EEMP 2025|Messias Pedreiro]]
 
+```toc
+```
+
 ---
 
 ## 1º BIMESTRE
