@@ -1,19 +1,9 @@
-  
+# 2º ANO: Plano de Curso
 
-[🏫 Robson](https://sites.google.com/view/professorrobson/in%C3%ADcio?authuser=0)
 
-- [Início](https://sites.google.com/view/professorrobson/in%C3%ADcio?authuser=0)
-    
+## 1º BIMESTRE
 
-# PLANO DE CURSO
-
-# 
-
-1º BIMESTRE
-
-### 
-
-Literatura
+### Literatura
 
 Barroco e Arcadismo (capítulos 5 e 7) (revisão)
 
@@ -67,13 +57,9 @@ Obra Literária
 
 📘 • [Glossário de Iracema](https://drive.google.com/file/d/1YjJntTAHDvtnyD59xRKDVqSnqRaWThRb/view?usp=sharing) 
 
-# 
+## 2º BIMESTRE
 
-2º BIMESTRE
-
-### 
-
-Literatura
+### Literatura
 
 "Capítulo 7: Romantismo 2ª e 3ª geração.
 
@@ -113,9 +99,7 @@ Obra Literária
 
 Noite na Taverna
 
-# 
-
-3º BIMESTRE
+## 3º BIMESTRE
 
 ### 
 
@@ -157,13 +141,9 @@ Contos de Machado de Assis
 
   
 
-# 
+## 4º BIMESTRE
 
-4º BIMESTRE
-
-### 
-
-Literatura
+### Literatura
 
 " "Capítulo 9: Parnasianismo e Simbolismo
 
