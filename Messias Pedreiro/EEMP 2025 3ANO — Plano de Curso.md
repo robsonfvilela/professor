@@ -3,6 +3,8 @@
 [[README|Índice]] | [[EEFE 2025|Frei Egídio]] | [[EEMP 2025|Messias Pedreiro]]
 
 ```toc
+minLevel: 2
+maxLevel: 3
 ```
 
 ---
@@ -20,7 +22,7 @@
 - Revisão Período simples e composto
 - Concordância verbal e nominal
 
-### Pŕodução de texto
+### Produção de texto
 - Revisão: tipologia e gêneros textuais
 - Texto de Opinião
 - Editorial
@@ -29,7 +31,7 @@
 
 ## 2º BIMESTRE
 
-➢ Literatura:
+### Literatura
 
 1ª geração modernista
 
@@ -39,13 +41,13 @@ Autores e obras
 
 Prosa e poesia
 
-➢ Gramática:
+### Gramática
 
 Regência verbal e nominal
 
 Crase
 
-➢ Pŕodução de texto:
+### Produção de texto
 
 Carta aberta
 
@@ -57,7 +59,7 @@ Carta de reclamação
 
 ## 3º BIMESTRE
 
-➢ Literatura:
+### Literatura
 
 2ª geração modernista
 
@@ -67,13 +69,13 @@ Autores e obras
 
 Prosa e poesia
 
-➢ Gramática:
+### Gramática
 
 Coerência e Coesão textual
 
 Modalizadores textuais
 
-➢ Pŕodução de texto:
+### Produção de texto
 
 Revisão: estratégias argumentativas
 
@@ -83,7 +85,7 @@ Texto dissertativo-argumentativo - Proposta ENEM
 
 ## 4º BIMESTRE
 
-➢ Literatura:
+### Literatura
 
 3ª geração modernista
 
@@ -93,13 +95,13 @@ Autores e obras
 
 Prosa e poesia
 
-➢ Gramática:
+### Gramática
 
 Revisão Enem: variação linguística, funções de linguagem, figuras de linguagem, formação de
 
 palavras(neologismo, estrangeirismo), tipologia e gêneros textuais, estratégias argumentativas.
 
-➢ Pŕodução de texto:
+### Produção de texto
 
 Revisão: estrutura textual, estratégias argumentativas
 
