@@ -1,9 +1,9 @@
 # Professor Robson
 
 
-[[EEFE 2025|Frei Egídio Parisi]]
+📘 [[EEFE 2025|Frei Egídio Parisi]]
 
-[[EEMP 2025|Messias Pedreiro]]
+📕 [[EEMP 2025|Messias Pedreiro]]
 
 
 
