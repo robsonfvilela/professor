@@ -1,23 +1,12 @@
-
+# 2º ANO: Plano de Curso (2025)
   
-
 [🏫 Robson](https://sites.google.com/view/professorrobson/in%C3%ADcio?authuser=0)
 
 - [Início](https://sites.google.com/view/professorrobson/in%C3%ADcio?authuser=0)
-    
 
-# PLANO DE CURSO (2º ANO)
+## 1º BIMESTRE
 
-# 
-
-1º BIMESTRE
-
-### 
-
-Leitura
-
-Barroco e Ar
-
+### Leitura
 • Leitura e interpretação de textos de diferentes gêneros
 
 • Estratégias de leitura: identificação de tema, ideia central, inferências
@@ -28,9 +17,7 @@ Barroco e Ar
 
   
 
-### 
-
-Produção de Textos
+###  Produção de Textos
 
 Barroco
 
@@ -44,9 +31,7 @@ Barroco
 
   
 
-### 
-
-Língua — Uso e Reflexão
+### Língua — Uso e Reflexão
 
 • Substantivo: classificação e uso
 
@@ -56,9 +41,7 @@ Língua — Uso e Reflexão
 
   
 
-### 
-
-Literatura
+### Literatura
 
 • Romantismo – Poesia
 
@@ -72,9 +55,8 @@ o Lira dos Vinte Anos – Álvares de Azevedo / Noite na Taverna
 
 • Habilidades da BNCC: EM13LP26, EM13LP27
 
-# 
 
-1º BIMESTRE
+## 2º BIMESTRE
 
 ### 
 
