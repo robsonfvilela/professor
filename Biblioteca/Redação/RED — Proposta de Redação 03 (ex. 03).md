@@ -1,0 +1,9 @@
+**Tema:** [[RED — Proposta de Redação 03|Caminhos para combater a fome no Brasil]]
+
+A Constituição Federal de 1988 assegura o direito de alimentação para a população brasileira, porém a realidade destoa do que prega o texto constitucional. Segundo o IBGE, no Brasil na década de 2020, cerca de 33 milhões de pessoas passam fome pela escassez de alimento.
+
+Em primeiro lugar tem-se como um dos fatores para a fome, a má distribuição de renda aonde 75 milhões de brasileiros vivem com meio salário mínimo ou menos, segundo uma pesquisa da Universidade Federal de Minas Gerais, sucedendo a insegurança alimentar e a desnutrição advinda de alimentos ultraprocessados e com baixo valor nutritivo, devido seu valor acessível.
+
+Ademais, nos últimos anos tem aumentado o custo de vida no Brasil. Por consequência, várias pessoas entraram em estado de calamidade alimentar. A obra "Vidas Secas" de Graciliano Ramos, retrata a situação de vulnerabilidade social da família se Fabiano, a qual no início da história, precisa matar o papagaio de estimação para se alimentar devido a fome. Na atualidade muitas famílias também buscam alternativas atípicas de alimentação pela situação alimentar em que vivem.
+
+Mediante ao exposto, torna-se evidente que a fome no Brasil, tem como origem central a desigualdade social. Para solucionar esse quadro, cabe ao Governo Federal propor a criação de projetos sociais, como restaurantes populares e repensar a melhoria do Bolsa Família e o Fome Zero, além de a longo prazo, pensar em outras maneiras de distribuição de renda e reforma agrária, fazendo com que toda população brasileira tenha a garantia de alimentação, assim como prega a Constituição Federal de 1988.
