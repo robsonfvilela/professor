@@ -1,4 +1,4 @@
-# Professor Robson
+# ⭐️ Professor Robson
 
 
 📘 [[EEFE 2025|Frei Egídio Parisi]]
@@ -12,3 +12,11 @@ ___
 
 
 [[http://bit.ly/professor-robson]]
+
+<!--
+Gov
+Ubuntu!!83
+
+Creative learning
+Montessouriana 
+Régio Emília (método italiano)
