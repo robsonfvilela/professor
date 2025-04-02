@@ -12,11 +12,3 @@ ___
 
 
 [[http://bit.ly/professor-robson]]
-
-<!--
-Gov
-Ubuntu!!83
-
-Creative learning
-Montessouriana 
-Régio Emília (método italiano)
