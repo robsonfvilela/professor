@@ -1,6 +1,6 @@
 # 📘 2º ANO: Plano de Curso (2025)
 
-[[README|Índice]] | [[EEFE 2025|📘 Frei Egídio]] | [[EEMP 2025|📕 Messias Pedreiro]]
+[[README|Índice]] | 📘 [[EEFE 2025|Frei Egídio]] | 📕 [[EEMP 2025|Messias Pedreiro]]
 
 ---
 ```toc
@@ -33,8 +33,10 @@ maxLevel:3
 - Explorando e explorando a diversidade literária: Análise de obras em poesia e prosa.
 
 ### Obra Literária
-- 📘 • [Iracema, de José de Alencar](https://drive.google.com/file/d/10vNj-i5TWeL8JFB7XwsoBW482nx4dYq_/view?usp=sharing)
-- 📘 • [Glossário de Iracema](https://drive.google.com/file/d/1YjJntTAHDvtnyD59xRKDVqSnqRaWThRb/view?usp=sharing) 
+- 📘 • [**Iracema**, de José de Alencar](https://drive.google.com/file/d/10vNj-i5TWeL8JFB7XwsoBW482nx4dYq_/view?usp=sharing)
+- 📘 • [**Glossário de Iracema**](https://drive.google.com/file/d/1YjJntTAHDvtnyD59xRKDVqSnqRaWThRb/view?usp=sharing) 
+
+[Hemeroteca](https://drive.google.com/file/d/1gaO9IvGUzPWB_36g2lSXioxUMKtIPlCV/view?usp=drivesdk)
 
 ---
 
@@ -56,7 +58,7 @@ maxLevel:3
 - Debates
 
 ### Obra Literária
-- Noite na Taverna
+- 📘 • **Noite na Taverna**, de Álvares de Azevedo
 
 ---
 
@@ -76,7 +78,13 @@ maxLevel:3
 - Interdiscursividade
 
 ### Obra Literária
-- Contos de Machado de Assis
+- 📘 • Contos de Machado de Assis
+	- 📘 • O Alienista
+	- 📘 • A Causa Secreta
+	- 📘 • A Cartomante
+	- 📘 • A Igreja do Diabo
+	- 📘 • Ideias de Canário
+	- 📘 • 
 
 ---
 
@@ -98,7 +106,7 @@ maxLevel:3
 - Gêneros argumentativos
 
 ### Obra Literária
-- O Cortiço
+- 📘 • **O Cortiço**, de Aloízio Azevedo
 
 ---
 
