@@ -39,7 +39,7 @@ maxLevel:3
 ### Hemeroteca
 
 - [Tema da Hemeroteca](https://drive.google.com/file/d/1gaO9IvGUzPWB_36g2lSXioxUMKtIPlCV/view?usp=drivesdk)
-- [[Redação do ENEM — Exemplo 1]]
+- [[Redação do ENEM — Exemplo 01]]
 
 ---
 
