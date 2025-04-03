@@ -31,7 +31,7 @@ Como a prova pede proposta de intervenção, esse texto é finalizado com duas p
 
 Conclui-se que o participante contemplou, em seu texto, integralmente e com excelência, todas as partes da proposta de redação.
 
-> Disponível em: <https://download.inep.gov.br/publicacoes/institucionais/avaliacoes_e_exames_da_educacao_basica/a_redacao_no_enem_2023_cartilha_do_participante.pdf>. Acesso em: 03 de abr. 2025. (p. 33-35)
+> Disponível em: [https://download.inep.gov.br/publicacoes/institucionais/avaliacoes_e_exames_da_educacao_basica/a_redacao_no_enem_2023_cartilha_do_participante.pdf](https://download.inep.gov.br/publicacoes/institucionais/avaliacoes_e_exames_da_educacao_basica/a_redacao_no_enem_2023_cartilha_do_participante.pdf). Acesso em: 03 de abr. 2025. (p. 33-35)
 
 ## Análise do texto
 
