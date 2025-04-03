@@ -39,7 +39,7 @@ Conclui-se que o participante contemplou, em seu texto, integralmente e com exce
 
 > O poeta modernista Oswald de Andrade relata, em “Erro de Português”, que, sob um dia de chuva, o índio foi vestido pelo português — uma denúncia à aculturação sofrida pelos povos indígenas com a chegada dos europeus ao território brasileiro. Paralelamente, no Brasil atual, há a manutenção de práticas prejudiciais não só aos silvícolas, mas também aos demais povos e comunidades tradicionais, como os pescadores. Com efeito, atuam como desafios para a valorização desses grupos a educação deficiente acerca do tema e a ausência do desenvolvimento sustentável.
 
-A seguir, veja como está estruturada a introdução do texto:
+A seguir, veja como está estruturada a introdução do texto. Note que o parágrafo foi construído com 3 períodos, cada um deles apresentando os três tópicos que caracterizam uma introdução prototípica para este tipo de texto.
 
 1. **Contextualização:** "O poeta modernista Oswald de Andrade relata, em “Erro de Português”, que, sob um dia de chuva, o índio foi vestido pelo português — uma denúncia à aculturação sofrida pelos povos indígenas com a chegada dos europeus ao território brasileiro."
 	1. O autor do texto cita uma obra da literatura modernista brasileira para introduzir o assunto.
