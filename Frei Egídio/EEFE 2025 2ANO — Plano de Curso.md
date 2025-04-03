@@ -3,10 +3,16 @@
 [[README|Índice]] | 📘 [[EEFE 2025|Frei Egídio]] | 📕 [[EEMP 2025|Messias Pedreiro]]
 
 ---
-```toc
-minLevel:2
-maxLevel:3
-```
+
+- [[#1º Bimestre]]
+	- [[#Prova do 1º Bimestre]]
+- [[#2º Bimestre]]
+	- [[#Prova do 2º Bimestre]]
+- [[#3º Bimestre]]
+	- [[#Prova do 3º Bimestre]]
+- [[#4º Bimestre]]
+	- [[#Prova do 4º Bimestre]]
+
 ---
 
 ## 1º Bimestre
@@ -40,6 +46,18 @@ maxLevel:3
 
 - [Tema da Hemeroteca](https://drive.google.com/file/d/1gaO9IvGUzPWB_36g2lSXioxUMKtIPlCV/view?usp=drivesdk)
 - [[Redação do ENEM — Exemplo 01]]
+
+
+### Prova do 1º Bimestre
+*Conteúdos a serem estudados para o Prova Bimestral de Língua Portuguesa:*
+- Literatura:
+	- Poesia do Romantismo brasileiro;
+	- As 3 fases do Romantismo brasileiro;
+	- Contexto histórico e características;
+	- Principais autores.
+- Gramática
+	- Substantivo: definição, classificação e uso semântico.
+
 
 ---
 
