@@ -36,7 +36,10 @@ maxLevel:3
 - 📘 • [**Iracema**, de José de Alencar](https://drive.google.com/file/d/10vNj-i5TWeL8JFB7XwsoBW482nx4dYq_/view?usp=sharing)
 - 📘 • [**Glossário de Iracema**](https://drive.google.com/file/d/1YjJntTAHDvtnyD59xRKDVqSnqRaWThRb/view?usp=sharing) 
 
-[Hemeroteca](https://drive.google.com/file/d/1gaO9IvGUzPWB_36g2lSXioxUMKtIPlCV/view?usp=drivesdk)
+### Hemeroteca
+
+- [Tema da Hemeroteca](https://drive.google.com/file/d/1gaO9IvGUzPWB_36g2lSXioxUMKtIPlCV/view?usp=drivesdk)
+- [[Redação do ENEM — Exemplo 1]]
 
 ---
 
