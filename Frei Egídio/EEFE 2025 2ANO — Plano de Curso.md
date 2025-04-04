@@ -125,7 +125,7 @@
 
 ## 4º Bimestre
 
-###iteratura
+### Literatura
 - Capítulo 9: Parnasianismo e Simbolismo
 - Leitura e interpretação: Poemas parnasianos e simbolistas
 
