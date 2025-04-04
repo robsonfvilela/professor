@@ -48,6 +48,13 @@
 - [[Redação do ENEM — Exemplo 01]]
 
 
+### Distribuição de Notas
+- `10,0`: Prova Bimestral
+- `05,0`: Atividade em duplas
+- `04,0`: Hemeroteca
+- `03,0`: Avaliação Diagnóstica
+- `03,0`: Atividades em sala de aula no caderno
+
 ### Prova do 1º Bimestre
 *Conteúdos a serem estudados para o Prova Bimestral de Língua Portuguesa:*
 - Literatura:
