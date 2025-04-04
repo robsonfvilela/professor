@@ -45,7 +45,14 @@
 ### Hemeroteca
 
 - [Tema da Hemeroteca](https://drive.google.com/file/d/1gaO9IvGUzPWB_36g2lSXioxUMKtIPlCV/view?usp=drivesdk)
-- [[Redação do ENEM — Exemplo 01]]
+- **Manuais do ENEM**
+	- 📘 • [Manual de Redação do ENEM 2020](https://download.inep.gov.br/publicacoes/institucionais/avaliacoes_e_exames_da_educacao_basica/a_redacao_do_enem_2020_-_cartilha_do_participante.pdf)
+	- 📘 • [Manual de Redação do ENEM 2022](https://download.inep.gov.br/download/enem/cartilha_do_participante_enem_2022.pdf)
+	- 📘 • [Manual de Redação do ENEM 2023](https://download.inep.gov.br/publicacoes/institucionais/avaliacoes_e_exames_da_educacao_basica/a_redacao_no_enem_2023_cartilha_do_participante.pdf)
+	- 📘 • [Manual de Redação do ENEM 2024](https://download.inep.gov.br/publicacoes/institucionais/avaliacoes_e_exames_da_educacao_basica/a_redacao_no_enem_2024_cartilha_do_participante.pdf)
+- **Exemplos de Redação**
+	- 📘 • [[Redação do ENEM — Exemplo 01]]
+	- 🖥️ • [Exemplos de Introdução](https://drive.google.com/file/d/1bBqyWBfE0ETUKvTDqWnWE9gE_ez_R-sZ/view?usp=drivesdk)
 
 
 ### Distribuição de Notas
