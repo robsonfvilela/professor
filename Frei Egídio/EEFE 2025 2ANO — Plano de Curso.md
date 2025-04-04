@@ -4,18 +4,18 @@
 
 ---
 
-- 🗓️ [[#🗓️ 1º Bimestre|1º Bimestre]]
+- 🗓️ [[#1º Bimestre]]
 	- [[#Prova do 1º Bimestre]]
-- 🗓️ [[#🗓️ 2º Bimestre|2º Bimestre]]
+- 🗓️ [[#2º Bimestre]]
 	- [[#Prova do 2º Bimestre]]
-- 🗓️ [[#🗓️ 3º Bimestre|3º Bimestre]]
+- 🗓️ [[#3º Bimestre]]
 	- [[#Prova do 3º Bimestre]]
-- 🗓️ [[#🗓️ 4º Bimestre|4º Bimestre]]
+- 🗓️ [[#4º Bimestre]]
 	- [[#Prova do 4º Bimestre]]
 
 ---
 
-## 🗓️ 1º Bimestre
+## 1º Bimestre
 
 ### Literatura
 - Barroco e Arcadismo (capítulos 5 e 7) (revisão)
@@ -75,7 +75,7 @@
 
 ---
 
-## 🗓️ 2º Bimestre
+## 2º Bimestre
 
 ### Literatura
 - "Capítulo 7: Romantismo 2ª e 3ª geração.
@@ -97,7 +97,7 @@
 
 ---
 
-## 🗓️ 3º Bimestre
+## 3º Bimestre
 
 ### Literatura
 - Capítulo 8: Realismo e Naturalismo
@@ -123,9 +123,9 @@
 
 ---
 
-## 🗓️ 4º Bimestre
+## 4º Bimestre
 
-### Literatura
+###iteratura
 - Capítulo 9: Parnasianismo e Simbolismo
 - Leitura e interpretação: Poemas parnasianos e simbolistas
 
