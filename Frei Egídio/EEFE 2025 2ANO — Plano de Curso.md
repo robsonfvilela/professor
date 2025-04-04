@@ -4,13 +4,13 @@
 
 ---
 
-- [[#🗓️ 1º Bimestre]]
+- 🗓️ [[#🗓️ 1º Bimestre|1º Bimestre]]
 	- [[#Prova do 1º Bimestre]]
-- [[#🗓️ 2º Bimestre]]
+- 🗓️ [[#🗓️ 2º Bimestre|2º Bimestre]]
 	- [[#Prova do 2º Bimestre]]
-- [[#🗓️ 3º Bimestre]]
+- 🗓️ [[#🗓️ 3º Bimestre|3º Bimestre]]
 	- [[#Prova do 3º Bimestre]]
-- [[#🗓️ 4º Bimestre]]
+- 🗓️ [[#🗓️ 4º Bimestre|4º Bimestre]]
 	- [[#Prova do 4º Bimestre]]
 
 ---
