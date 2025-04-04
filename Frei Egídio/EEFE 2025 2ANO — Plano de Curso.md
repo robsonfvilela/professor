@@ -20,8 +20,8 @@
 ### Literatura
 - Barroco e Arcadismo (capítulos 5 e 7) (revisão)
 - Romantismo (Capítulo 7)
-	- 📘 • [Romantismo: o arrebatamento das emoções](https://drive.google.com/file/d/1cRVK1Y8oDmxsV7o2LscYCDtGgpBUG0UT/view?usp=share_link)
-	- 📘 • [Romantismo no Brasil: as gerações poéticas](https://drive.google.com/file/d/1ZIoo23y4Uioj4VREds6zAFAkGVVx0c3T/view?usp=share_link)
+	- 📙 • [Romantismo: o arrebatamento das emoções](https://drive.google.com/file/d/1cRVK1Y8oDmxsV7o2LscYCDtGgpBUG0UT/view?usp=share_link)
+	- 📙 • [Romantismo no Brasil: as gerações poéticas](https://drive.google.com/file/d/1ZIoo23y4Uioj4VREds6zAFAkGVVx0c3T/view?usp=share_link)
 	- 📝 • [Poesia do Romantismo](https://drive.google.com/file/d/18bJpQQEKUwDqSYiutInEih_9gWMgyWOl/view?usp=drivesdk)
 	- 🖥️ • [Romantismo: 1ª fase (slide)](https://drive.google.com/file/d/1XXRG9eHImCHqwroywm0VphyAsuwgqwlB/view?usp=drivesdk)
 
@@ -39,19 +39,19 @@
 - Explorando e explorando a diversidade literária: Análise de obras em poesia e prosa.
 
 ### Obra Literária
-- 📘 • [**Iracema**, de José de Alencar](https://drive.google.com/file/d/10vNj-i5TWeL8JFB7XwsoBW482nx4dYq_/view?usp=sharing)
-- 📘 • [**Glossário de Iracema**](https://drive.google.com/file/d/1YjJntTAHDvtnyD59xRKDVqSnqRaWThRb/view?usp=sharing) 
+- 📙 • [**Iracema**, de José de Alencar](https://drive.google.com/file/d/10vNj-i5TWeL8JFB7XwsoBW482nx4dYq_/view?usp=sharing)
+- 📙 • [**Glossário de Iracema**](https://drive.google.com/file/d/1YjJntTAHDvtnyD59xRKDVqSnqRaWThRb/view?usp=sharing) 
 
 ### Hemeroteca do 1º Bimestre
 
 - [Tema da Hemeroteca](https://drive.google.com/file/d/1gaO9IvGUzPWB_36g2lSXioxUMKtIPlCV/view?usp=drivesdk)
 - **Manuais do ENEM**
-	- 📘 • [Manual de Redação do ENEM 2020](https://download.inep.gov.br/publicacoes/institucionais/avaliacoes_e_exames_da_educacao_basica/a_redacao_do_enem_2020_-_cartilha_do_participante.pdf)
-	- 📘 • [Manual de Redação do ENEM 2022](https://download.inep.gov.br/download/enem/cartilha_do_participante_enem_2022.pdf)
-	- 📘 • [Manual de Redação do ENEM 2023](https://download.inep.gov.br/publicacoes/institucionais/avaliacoes_e_exames_da_educacao_basica/a_redacao_no_enem_2023_cartilha_do_participante.pdf)
-	- 📘 • [Manual de Redação do ENEM 2024](https://download.inep.gov.br/publicacoes/institucionais/avaliacoes_e_exames_da_educacao_basica/a_redacao_no_enem_2024_cartilha_do_participante.pdf)
+	- 📙 • [Manual de Redação do ENEM 2020](https://download.inep.gov.br/publicacoes/institucionais/avaliacoes_e_exames_da_educacao_basica/a_redacao_do_enem_2020_-_cartilha_do_participante.pdf)
+	- 📙 • [Manual de Redação do ENEM 2022](https://download.inep.gov.br/download/enem/cartilha_do_participante_enem_2022.pdf)
+	- 📙 • [Manual de Redação do ENEM 2023](https://download.inep.gov.br/publicacoes/institucionais/avaliacoes_e_exames_da_educacao_basica/a_redacao_no_enem_2023_cartilha_do_participante.pdf)
+	- 📙 • [Manual de Redação do ENEM 2024](https://download.inep.gov.br/publicacoes/institucionais/avaliacoes_e_exames_da_educacao_basica/a_redacao_no_enem_2024_cartilha_do_participante.pdf)
 - **Exemplos de Redação**
-	- 📘 • [[Redação do ENEM — Exemplo 01]]
+	- 📙 • [[Redação do ENEM — Exemplo 01]]
 	- 🖥️ • [Exemplos de Introdução](https://drive.google.com/file/d/1bBqyWBfE0ETUKvTDqWnWE9gE_ez_R-sZ/view?usp=drivesdk)
 
 
@@ -93,10 +93,9 @@
 - Debates
 
 ### Obra Literária
-- 📘 • **Noite na Taverna**, de Álvares de Azevedo
+- 📙 • **Noite na Taverna**, de Álvares de Azevedo
 
 ---
-
 ## 3º Bimestre
 
 ### Literatura
@@ -113,13 +112,13 @@
 - Interdiscursividade
 
 ### Obra Literária
-- 📘 • Contos de Machado de Assis
-	- 📘 • O Alienista
-	- 📘 • A Causa Secreta
-	- 📘 • A Cartomante
-	- 📘 • A Igreja do Diabo
-	- 📘 • Ideias de Canário
-	- 📘 • 
+- 📙 • Contos de Machado de Assis
+	- 📙 • O Alienista
+	- 📙 • A Causa Secreta
+	- 📙 • A Cartomante
+	- 📙 • A Igreja do Diabo
+	- 📙 • Ideias de Canário
+	- 📙 • 
 
 ---
 
@@ -141,12 +140,12 @@
 - Gêneros argumentativos
 
 ### Obra Literária
-- 📘 • **O Cortiço**, de Aloízio Azevedo
+- 📙 • **O Cortiço**, de Aloízio Azevedo
 
 ---
 
 ## Outros
 
-- 📘 • [Texto Dissertativo-Argumentativo](https://drive.google.com/file/d/1qGRX16po0DpGT6_HnR2dZMk87Din0soa/view?usp=drivesdk) 
+- 📙 • [Texto Dissertativo-Argumentativo](https://drive.google.com/file/d/1qGRX16po0DpGT6_HnR2dZMk87Din0soa/view?usp=drivesdk) 
 
 Robson F. Vilela, 2025
