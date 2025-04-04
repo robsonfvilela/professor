@@ -42,7 +42,7 @@
 - 📘 • [**Iracema**, de José de Alencar](https://drive.google.com/file/d/10vNj-i5TWeL8JFB7XwsoBW482nx4dYq_/view?usp=sharing)
 - 📘 • [**Glossário de Iracema**](https://drive.google.com/file/d/1YjJntTAHDvtnyD59xRKDVqSnqRaWThRb/view?usp=sharing) 
 
-### Hemeroteca
+### Hemeroteca do 1º Bimestre
 
 - [Tema da Hemeroteca](https://drive.google.com/file/d/1gaO9IvGUzPWB_36g2lSXioxUMKtIPlCV/view?usp=drivesdk)
 - **Manuais do ENEM**
@@ -56,9 +56,9 @@
 
 
 ### Distribuição de Notas
-- **10,0:** Prova Bimestral
+- **10,0:** [[#Prova do 1º Bimestre|Prova Bimestral]]
 - **05,0:** Atividade em duplas
-- **04,0:** Hemeroteca
+- **04,0:** [[#Hemeroteca do 1º Bimestre|Hemeroteca]]
 - **03,0:** Avaliação Diagnóstica
 - **03,0:** Atividades em sala de aula no caderno
 
