@@ -75,25 +75,22 @@
 	- **Atividade A:** [Copiar e responder às questões 1 a 5](https://drive.google.com/file/d/1QrvBGMVQFXfi7I7A9L6EIdqQCiHK7QSi/view?usp=drivesdk).
 
 
-<!---
-
-### Literatura
+#### Literatura
 - "Capítulo 7: Romantismo 2ª e 3ª geração.
 - Leitura e interpretação: Livro Noite na Taverna
 
-### Gramática
+#### Gramática
 - Capítulo 22: Numeral e artigo
 - Capítulo 23: Pronome
 - Variação linguística
 - Progressão temática
 
-### Texto e Interpretação
+#### Texto e Interpretação
 - Gêneros e tipos textuais
 - Debates
 
-### Obra Literária
+#### Obra Literária
 - 📙 • **Noite na Taverna**, de Álvares de Azevedo
--->
 
 ### Distribuição de Notas
 - **10,0:** Avaliação Bimestral
