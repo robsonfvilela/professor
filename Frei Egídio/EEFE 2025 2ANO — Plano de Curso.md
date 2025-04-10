@@ -24,7 +24,7 @@
 - Substantivo (Capítulo 21)
 	- 🖥️ • [Substantivo (slide)](https://drive.google.com/file/d/1A0sqBWtBJ1VszVFPglBKktXWzfU3kPOR/view?usp=drivesdk)
 	- 📝 • [Exercícios](https://drive.google.com/file/d/1s5Zv5TrdhB0s8oOipxITru9mCrZO8ycr/view?usp=drivesdk) 
-- Adjetivo (Capítulo 21)
+- ~~Adjetivo (Capítulo 21)~~
 	- 📝 • [Exercícios](https://drive.google.com/file/d/1QrvBGMVQFXfi7I7A9L6EIdqQCiHK7QSi/view?usp=drivesdk)
 
 ### Texto e Interpretação
@@ -70,13 +70,19 @@
 
 ## 2º Bimestre
 
+### Conteúdo Programático
+- **Gramática:** Adjetivo
+	- **Atividade A:** [Copiar e responder às questões 1 a 5](https://drive.google.com/file/d/1QrvBGMVQFXfi7I7A9L6EIdqQCiHK7QSi/view?usp=drivesdk).
+
+
+<!---
+
 ### Literatura
 - "Capítulo 7: Romantismo 2ª e 3ª geração.
 - Leitura e interpretação: Livro Noite na Taverna
 
-
 ### Gramática
-- Capítulo 22: Numeral e artig
+- Capítulo 22: Numeral e artigo
 - Capítulo 23: Pronome
 - Variação linguística
 - Progressão temática
@@ -87,6 +93,26 @@
 
 ### Obra Literária
 - 📙 • **Noite na Taverna**, de Álvares de Azevedo
+-->
+
+### Distribuição de Notas
+- **10,0:** Avaliação Bimestral
+- **05,0:** [Hemeroteca]()
+- **05,0:** 
+- **03,0:** Atividades em sala de aula no caderno
+
+### Prova do 2º Bimestre
+*Conteúdos a serem estudados para o Prova Bimestral de Língua Portuguesa:*
+- Literatura:
+	- Prosa do Romantismo brasileiro;
+	- As 3 fases do Romantismo brasileiro;
+	- Contexto histórico e características;
+	- Principais autores.
+- Gramática
+	- Adejtivo: definição, classificação e uso semântico.
+
+
+
 
 ---
 ## 3º Bimestre
