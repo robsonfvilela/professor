@@ -3,10 +3,9 @@
 [[README|Índice]] | 📘 [[EEFE 2025|Frei Egídio]] | 📕 [[EEMP 2025|Messias Pedreiro]]
 
 ---
-```toc
-minLevel: 2
-maxLevel: 3
-```
+
+[[#Atividade Complementar De Língua Portuguesa (redação/produção Textual)]]
+
 ---
 
 ## 1º BIMESTRE
@@ -97,3 +96,11 @@ maxLevel: 3
 - **O verdugo** – Hilda Hilst (Drama);
 - **Coral e outros poemas** – Sophia de Mello Breyner Andresen (Poesia lírica);
 - **Casa de alvenaria – Volume 1: Osasco** – Maria Carolina de Jesus (Diário).
+
+---
+
+## Atividade Complementar De Língua Portuguesa (redação/produção Textual)
+
+### 1º Bimestre
+
+**[Atividade A](https://docs.google.com/forms/d/e/1FAIpQLSdMawhZaV4qLI_xFsevdqSFo1Kt7dXFDblq34YnVUiC1sDmEw/viewform?usp=dialog)**
