@@ -62,6 +62,8 @@ ___
 	- 5 minutos / A viuvinha – José de Alencar
 - Habilidades da BNCC: EM13LP28, EM13LP29
 
+
+
 ___
 
 ## 3º Bimestre
@@ -118,3 +120,11 @@ ___
 - Obras sugeridas:
 	- Poesias – Olavo Bilac
 - Habilidades da BNCC: EM13LP32, EM13LP33
+
+---
+
+## Atividade Complementar De Língua Portuguesa (redação/produção Textual)
+
+### 1º Bimestre
+
+**[Atividade A]()**
