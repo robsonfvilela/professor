@@ -73,19 +73,14 @@
 ### Conteúdo Programático
 - **Gramática:** Adjetivo
 	- **Atividade A:** [Copiar e responder às questões 1 a 5](https://drive.google.com/file/d/1QrvBGMVQFXfi7I7A9L6EIdqQCiHK7QSi/view?usp=drivesdk).
-
-
-#### Literatura
-- "Capítulo 7: Romantismo 2ª e 3ª geração.
-- Leitura e interpretação: Livro Noite na Taverna
-
-#### Gramática
+	- **Atividade B:** [Copiar e responder às questões ](https://drive.google.com/file/d/1QrvBGMVQFXfi7I7A9L6EIdqQCiHK7QSi/view?usp=drivesdk).
+<br>
 - Capítulo 22: Numeral e artigo
 - Capítulo 23: Pronome
 - Variação linguística
 - Progressão temática
-
-#### Texto e Interpretação
+- "Capítulo 7: Romantismo 2ª e 3ª geração.
+- Leitura e interpretação: Livro Noite na Taverna
 - Gêneros e tipos textuais
 - Debates
 
