@@ -29,21 +29,21 @@
 
 ## 2º BIMESTRE
 
-### Literatura
-- 1ª geração modernista
-- Contexto histórico e de produção
+### Conteúdo Programático
+- **LITERATURA:** **Modernismo: 1ª geração** (a fase heróica)
+	- Contexto histórico e de produção
 	- Autores e obras
 	- Prosa e poesia
-
-### Gramática
-- Regência verbal e nominal
-- Crase
-
-### Produção de texto
-- Carta Argumentativa
+- **GRAMÁTICA:** Regência verbal e nominal
+- **GRAMÁTICA:** Crase
+- **PRODUÇÃO DE TEXTO:** Carta Argumentativa
 	- Carta aberta
 	- Carta de solicitação
 	- Carta de reclamação
+
+### Atividades
+- **Atividade A:** Questões a respeito do Manifesto Futurista.
+- **Atividade B:** 
 
 ---
 
