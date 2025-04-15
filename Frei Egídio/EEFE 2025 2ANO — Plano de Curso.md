@@ -73,7 +73,7 @@
 ### Conteúdo Programático
 - **Gramática:** Adjetivo
 	- **Atividade A:** [Copiar e responder às questões 1 a 5](https://drive.google.com/file/d/1QrvBGMVQFXfi7I7A9L6EIdqQCiHK7QSi/view?usp=drivesdk).
-	- **Atividade B:** [Copiar e responder às questões ](https://drive.google.com/file/d/1QrvBGMVQFXfi7I7A9L6EIdqQCiHK7QSi/view?usp=drivesdk).
+	- **Atividade B:** [Copiar e responder às questões 6 a 10](https://drive.google.com/file/d/1QrvBGMVQFXfi7I7A9L6EIdqQCiHK7QSi/view?usp=drivesdk).
 
 - 
 - Capítulo 22: Numeral e artigo
