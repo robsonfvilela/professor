@@ -74,11 +74,11 @@
 - **Gramática:** Adjetivo
 	- **Atividade A:** [Copiar e responder às questões 1 a 5](https://drive.google.com/file/d/1QrvBGMVQFXfi7I7A9L6EIdqQCiHK7QSi/view?usp=drivesdk).
 	- **Atividade B:** [Copiar e responder às questões 6 a 10](https://drive.google.com/file/d/1QrvBGMVQFXfi7I7A9L6EIdqQCiHK7QSi/view?usp=drivesdk).
-
-- 
+	- **Atividade C:** [Copiar e responder às questões 13 a 17](https://drive.google.com/file/d/1QrvBGMVQFXfi7I7A9L6EIdqQCiHK7QSi/view?usp=drivesdk).
+- **Variação linguística**
+	- **Atividade D:** [Copie e responda às questões 1, 2, 5, 6 e 7](https://drive.google.com/file/d/1MKeG6S7u1AFd4e2fkckAFMbPhcERXPsZ/view?usp=drivesdk)
 - Capítulo 22: Numeral e artigo
 - Capítulo 23: Pronome
-- Variação linguística
 - Progressão temática
 - "Capítulo 7: Romantismo 2ª e 3ª geração.
 - Leitura e interpretação: Livro Noite na Taverna
