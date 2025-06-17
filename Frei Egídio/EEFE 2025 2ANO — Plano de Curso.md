@@ -1,4 +1,4 @@
-# 📘 2º ANO: Plano de Curso (2025)
+# 📘 2º ANO: Plano de Curso
 
 ---
 
