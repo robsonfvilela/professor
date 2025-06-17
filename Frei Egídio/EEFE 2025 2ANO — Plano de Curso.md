@@ -156,7 +156,7 @@
 ---
 ---
 
-<!--
+/*
 ## 1º Bimestre
 
 ### Literatura
@@ -311,3 +311,4 @@
 - 📙 • [Texto Dissertativo-Argumentativo](https://drive.google.com/file/d/1qGRX16po0DpGT6_HnR2dZMk87Din0soa/view?usp=drivesdk) 
 
 Robson F. Vilela, 2025
+*/
