@@ -1,10 +1,6 @@
 # 📕 3º ANO: Plano de Curso
 
----
-
-[[#Atividade Complementar De Língua Portuguesa (redação/produção Textual)]]
-
----
+- [[#Atividade Complementar De Língua Portuguesa (redação/produção Textual)]]
 
 ## 1º BIMESTRE
 
