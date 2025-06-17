@@ -1,4 +1,4 @@
-# 📕 3º ANO: Plano de Curso (2025)
+# 📕 3º ANO: Plano de Curso
 
 ---
 
