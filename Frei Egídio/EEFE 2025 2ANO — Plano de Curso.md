@@ -1,7 +1,5 @@
 # 📘 2º ANO: Plano de Curso
 
----
-
 ## 1º Bimestre
 
 - **Literatura**
