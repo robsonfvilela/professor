@@ -71,11 +71,11 @@
 - **Atividade B:** [Copiar e responder às questões 6 a 10](https://drive.google.com/file/d/1QrvBGMVQFXfi7I7A9L6EIdqQCiHK7QSi/view?usp=drivesdk).
 - **Atividade C:** [Copiar e responder às questões 13 a 17](https://drive.google.com/file/d/1QrvBGMVQFXfi7I7A9L6EIdqQCiHK7QSi/view?usp=drivesdk).
 - **Atividade D:** [Copie e responda às questões 1, 2, 5, 6 e 7](https://drive.google.com/file/d/1lkgFtq2LIXJ-1PStIMIt3pju7e22bl7A/view?usp=drivesdk) (Variação linguística)
-- **Atividade D:** [Copie e responda às questões 10 a 16](https://drive.google.com/file/d/1lkgFtq2LIXJ-1PStIMIt3pju7e22bl7A/view?usp=drivesdk) (Variação linguística)
-- **Atividade E:** Copie e responda às questões 01 a 05 (Artigo e Numeral)
-- **Atividade F:** Copie e responda às questões 06 a 09 (Artigo e Numeral)
-- **Atividade G:** Copie e responda às questões 08 a 11 (Inocência)
-- **Atividade H:** Responda às questões 12 a 17 (Senhora e Memórias de um Sargento de Milícias)
+- **Atividade E:** [Copie e responda às questões 10 a 16](https://drive.google.com/file/d/1lkgFtq2LIXJ-1PStIMIt3pju7e22bl7A/view?usp=drivesdk) (Variação linguística)
+- **Atividade F:** Copie e responda às questões 01 a 05 (Artigo e Numeral)
+- **Atividade G:** Copie e responda às questões 06 a 09 (Artigo e Numeral)
+- **Atividade H:** Copie e responda às questões 08 a 11 (Inocência)
+- **Atividade I:** Responda às questões 12 a 17 (Senhora e Memórias de um Sargento de Milícias)
 
 
 
