@@ -3,23 +3,20 @@
 ## 1º Bimestre
 
 - **Literatura**
-- [x] Barroco e Arcadismo (revisão)
-- [x] Romantismo: poesia
+	- [x] Barroco e Arcadismo (revisão)
+	- [x] Romantismo: poesia
 	- 📙 • [Romantismo: o arrebatamento das emoções](https://drive.google.com/file/d/1cRVK1Y8oDmxsV7o2LscYCDtGgpBUG0UT/view?usp=share_link)
 	- 📙 • [Romantismo no Brasil: as gerações poéticas](https://drive.google.com/file/d/1ZIoo23y4Uioj4VREds6zAFAkGVVx0c3T/view?usp=share_link)
 	- 📝 • [Poesia do Romantismo](https://drive.google.com/file/d/18bJpQQEKUwDqSYiutInEih_9gWMgyWOl/view?usp=drivesdk)
 	- 🖥 [Romantismo: 1ª fase (slide)](https://drive.google.com/file/d/1XXRG9eHImCHqwroywm0VphyAsuwgqwlB/view?usp=drivesdk)
 - **Gramática**
-- [x] Classes Gramaticais
+	- [x] Classes Gramaticais
     - 🖥 [Classes de Palavras (slide)](https://drive.google.com/file/d/1v2CgiBOw307PzD2rPQkN2OsUmR02Ku2_/view?usp=drivesdk)
-- [x] Substantivo
+	- [x] Substantivo
     - 🖥 [Substantivo (slide)](https://drive.google.com/file/d/1A0sqBWtBJ1VszVFPglBKktXWzfU3kPOR/view?usp=drivesdk)
     - 📝 • [Exercícios](https://drive.google.com/file/d/1s5Zv5TrdhB0s8oOipxITru9mCrZO8ycr/view?usp=drivesdk)
-- ~~Adjetivo (Capítulo 21)~~
+	- [x] Adjetivo
     - 📝 • [Exercícios](https://drive.google.com/file/d/1QrvBGMVQFXfi7I7A9L6EIdqQCiHK7QSi/view?usp=drivesdk)
-- Texto e Interpretação
-	- [ ] Semiótica (Revisão)
-	- [ ] Explorando e explorando a diversidade literária: Análise de obras em poesia e prosa.
 - **Obra Literária**
 	- [x] 📙 • [**Iracema**, de José de Alencar](https://drive.google.com/file/d/10vNj-i5TWeL8JFB7XwsoBW482nx4dYq_/view?usp=sharing)
 	- [x] 📙 • [**Glossário de Iracema**](https://drive.google.com/file/d/1YjJntTAHDvtnyD59xRKDVqSnqRaWThRb/view?usp=sharing)
@@ -28,9 +25,9 @@
 
 
 ### Distribuição de Notas
-- **10,0:** [[#Prova do 1º Bimestre|Prova Bimestral]]
+- **10,0:** Prova Bimestral
 - **05,0:** Atividade em duplas
-- **04,0:** [[#Hemeroteca do 1º Bimestre|Hemeroteca]]
+- **04,0:** Hemeroteca
 - **03,0:** Avaliação Diagnóstica
 - **03,0:** Atividades em sala de aula no caderno
 
@@ -48,20 +45,13 @@
 ## 2º Bimestre
 
 - **Gramática:**
-	- [ ] Adjetivo
 	- [x] Artigo
 	- [x] Numeral
-	- [ ] Pronome
 - **Literatura:**
 	- [x] Romantismo: Prosa
 	- [x] Inocência
 	- [x] Senhora
 	- [x] Memórias de um sargento de milícias
-- **Leitura e Redação:**
-	- [ ] Progressão temática
-	- [ ] Livro Noite na Taverna
-	- [ ] Gêneros e tipos textuais
-	- [ ] Debates
 - **Obra Literária**
 	- [ ] 📙 • **Noite na Taverna**, de Álvares de Azevedo
 
@@ -74,8 +64,8 @@
 - **Atividade E:** [Copie e responda às questões 10 a 16](https://drive.google.com/file/d/1lkgFtq2LIXJ-1PStIMIt3pju7e22bl7A/view?usp=drivesdk) (Variação linguística)
 - **Atividade F:** Copie e responda às questões 01 a 05 (Artigo e Numeral)
 - **Atividade G:** Copie e responda às questões 06 a 09 (Artigo e Numeral)
-- **Atividade H:** Copie e responda às questões 08 a 11 (Inocência)
-- **Atividade I:** Responda às questões 12 a 17 (Senhora e Memórias de um Sargento de Milícias)
+- **Atividade H:** [Copie e responda às questões 08 a 11](https://drive.google.com/file/d/1o6vX8WvFsZ18RIaHKkDxmarIO5JxqDp1/view?usp=drivesdk) (Inocência)
+- **Atividade I:** [Responda às questões 12 a 17](https://drive.google.com/file/d/1o6vX8WvFsZ18RIaHKkDxmarIO5JxqDp1/view?usp=drivesdk) (Senhora e Memórias de um Sargento de Milícias)
 
 
 
