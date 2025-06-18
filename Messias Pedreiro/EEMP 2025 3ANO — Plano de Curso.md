@@ -23,39 +23,34 @@
 
 ## 2º BIMESTRE
 
-### Conteúdo Programático
-- **LITERATURA:** **Modernismo: 1ª geração** (a fase heróica)
+- **LITERATURA:**
+	- **Modernismo: 1ª geração** (a fase heróica)
 	- Contexto histórico e de produção
 	- Autores e obras
 	- Prosa e poesia
-- **GRAMÁTICA:** Regência verbal e nominal
-- **GRAMÁTICA:** Crase
-- **PRODUÇÃO DE TEXTO:** Carta Argumentativa
-	- Carta aberta
-	- Carta de solicitação
-	- Carta de reclamação
-
-### Atividades
-- **Atividade A:** Questões a respeito do Manifesto Futurista.
-- **Atividade B:** 
+- **GRAMÁTICA:**
+	- Regência verbal e nominal
+	- Crase
 
 ---
 
 ## 3º BIMESTRE
-
-### Literatura
+- **Literatura**
 - 2ª geração modernista
 	- Contexto histórico e de produção
 	- Autores e obras
 	- Prosa e poesia
-
-### Gramática
-- Coerência e Coesão textual
-- Modalizadores textuais
-
-### Produção de texto
+- **Gramática**
+	- Coerência e Coesão textual
+	- Modalizadores textuais
+- **Produção de texto**
 - Revisão: estratégias argumentativas
-- Texto dissertativo-argumentativo - Proposta ENEM
+- Texto dissertativo-argumentativo
+- Proposta ENEM
+
+### Atividades
+- **Atividade A:** questão de concordância verbal sobre verbo com sujeito simples (quadro)
+- **Atividade B:**
 
 ---
 
