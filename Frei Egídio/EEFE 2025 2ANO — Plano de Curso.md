@@ -110,6 +110,8 @@
 	- 📙 • A Igreja do Diabo
 	- 📙 • Ideias de Canário
 
+### Atividades
+- **Visto A:** [Mapa-Mental dos Pronomes](https://drive.google.com/file/d/15UTiORJEQ2eGN9u5HMkrM1E5soeiaX_S/view?usp=drivesdk)
 ---
 
 ## 4º Bimestre
