@@ -92,7 +92,7 @@
 - **Literatura**
 	- [ ] Realismo
 	- [ ] Naturalismo
-- **Leitura e interpretação:**
+- **Leitura e interpretação**
 	- [ ] Livros: Dom Casmurro
 	- [ ] O Cortiço em HQ.
 - **Gramática**
