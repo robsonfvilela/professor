@@ -5,10 +5,21 @@
 ## 1º BIMESTRE
 
 - **Leitura**
-- Leitura e interpretação de textos de diferentes gêneros • Estratégias de leitura: identificação de tema, ideia central, inferências • Textos jornalísticos e ensaísticos • Habilidades da BNCC: EF69LP01, EF69LP02, EM13LP01
-- **Produção de Texto** • Introdução ao texto dissertativo-argumentativo • Estrutura e elementos do gênero • Desenvolvimento de argumentos coerentes • Habilidades da BNCC: EM13LP17, EM13LP18
-- **Língua – Uso e Reflexão** • Substantivo: classificação e uso • Adjetivo classificação e uso • Habilidades da BNCC: EM13LP05, EM13LP06
-- **Literatura** • Romantismo – Poesia o Características gerais o Primeira, segunda e terceira geração romântica • Obras sugeridas: o Lira dos Vinte Anos – Álvares de Azevedo / Noite na Taverna • Habilidades da BNCC: EM13LP26, EM13LP27
+	- Leitura e interpretação de textos de diferentes gêneros
+	- Estratégias de leitura: identificação de tema, ideia central, inferências
+	- Textos jornalísticos e ensaísticos
+- **Produção de Texto**
+	- Introdução ao texto dissertativo-argumentativo
+	- Estrutura e elementos do gênero
+	- Desenvolvimento de argumentos coerentes
+- **Língua – Uso e Reflexão**
+	- Substantivo: classificação e uso
+	- Adjetivo classificação e uso
+- **Literatura**
+	- Romantismo – Poesia o Características gerais o Primeira, segunda e terceira geração romântica
+- **Obras sugeridas:**
+	- Lira dos Vinte Anos – Álvares de Azevedo
+	- Noite na Taverna
 
 ## 2º Bimestre
 
@@ -44,6 +55,10 @@
 	- [ ] Naturalismo o Contexto histórico e principais características o Crítica social e objetividade
 - **Obras sugeridas**
 	- [ ] Contos – Machado de Assis
+
+### Atividades
+- **Atividade A:** 
+- **Atividade B:** 
 
 ## 4º Bimestre
 
