@@ -96,7 +96,7 @@
 	- [ ] Livros: Dom Casmurro
 	- [ ] O Cortiço em HQ.
 - **Gramática**
-	- [ ] [Pronome](https://drive.google.com/file/d/19UcKRnbrwq9nZzECILtPQCp2d1bZWpyQ/view?usp=share_link)
+	- [ ] Pronome [Apostila](https://drive.google.com/file/d/19UcKRnbrwq9nZzECILtPQCp2d1bZWpyQ/view?usp=share_link)
 	- [ ] Verbo
 - **Texto e Interpretação**
 	- [ ] Debates
