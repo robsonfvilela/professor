@@ -1,6 +1,6 @@
 # 📘 2º ANO: Plano de Curso
 
-## 1º Bimestre
+## 🟢 1º Bimestre
 
 - **Literatura**
 	- [x] Barroco e Arcadismo (revisão)
@@ -42,7 +42,7 @@
 
 ---
 
-## 2º Bimestre
+## 🟢 2º Bimestre
 
 - **Gramática:**
 	- [x] Artigo
@@ -73,7 +73,7 @@
 
 - **10,0:** Avaliação Bimestral
 - **05,0:** [Hemeroteca](https://robsonfvilela.github.io/professor-robson/escolas/2eefe_conteudo.html)
-- **05,0:**
+- **05,0:** Simulados e Redações
 - **05,0:** Atividades em sala de aula no caderno
 
 ### Prova do 2º Bimestre
@@ -87,7 +87,7 @@
 
 ---
 
-## 3º Bimestre
+## 🟢 3º Bimestre
 
 - **Literatura**
 	- [ ] Realismo
@@ -96,7 +96,7 @@
 	- [ ] Livros: Dom Casmurro
 	- [ ] O Cortiço em HQ.
 - **Gramática**
-	- [ ] Pronome
+	- [ ] [Pronome](https://drive.google.com/file/d/19UcKRnbrwq9nZzECILtPQCp2d1bZWpyQ/view?usp=share_link)
 	- [ ] Verbo
 - **Texto e Interpretação**
 	- [ ] Debates
@@ -112,9 +112,17 @@
 
 ### Atividades
 - **Visto A:** [Mapa-Mental dos Pronomes](https://drive.google.com/file/d/15UTiORJEQ2eGN9u5HMkrM1E5soeiaX_S/view?usp=drivesdk)
+
+### Distribuição de Notas
+
+- **10,0:** Avaliação Bimestral
+- **05,0:** [Hemeroteca]()
+- **05,0:** Simulados e Redações
+- **05,0:** Atividades em sala de aula no caderno
+
 ---
 
-## 4º Bimestre
+## 🟢 4º Bimestre
 - **Literatura:**
 	- [ ] Parnasianismo
 	- [ ] Simbolismo
