@@ -1,6 +1,6 @@
 # 📘 2º ANO: Plano de Curso
 
-## 🟢 1º Bimestre
+## 🔵 1º Bimestre
 
 - **Literatura**
 	- [x] Barroco e Arcadismo (revisão)
@@ -42,7 +42,7 @@
 
 ---
 
-## 🟢 2º Bimestre
+## 🔵 2º Bimestre
 
 - **Gramática:**
 	- [x] Artigo
@@ -87,7 +87,7 @@
 
 ---
 
-## 🟢 3º Bimestre
+## 🔵 3º Bimestre
 
 - **Literatura**
 	- [ ] Realismo
@@ -122,7 +122,7 @@
 
 ---
 
-## 🟢 4º Bimestre
+## 🔵 4º Bimestre
 - **Literatura:**
 	- [ ] Parnasianismo
 	- [ ] Simbolismo
