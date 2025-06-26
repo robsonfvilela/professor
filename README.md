@@ -16,6 +16,3 @@
 ---
 
 > 2025 [Professor Robson](http://bit.ly/professor-robson) | **e-mail:** robson.vilela@educacao.mg.gov.br
-
-
-![[Excalidraw/Drawing 2025-06-26 15.53.20.excalidraw]]
