@@ -2,7 +2,7 @@
 
 
 
-## 1º BIMESTRE
+## 🔴 1º Bimestre
 
 - **Leitura**
 	- Leitura e interpretação de textos de diferentes gêneros
@@ -21,7 +21,7 @@
 	- Lira dos Vinte Anos – Álvares de Azevedo
 	- Noite na Taverna
 
-## 2º Bimestre
+## 🔴 2º Bimestre
 
 - **Leitura:**
 	- Interpretação de textos científicos e filosóficos
@@ -38,7 +38,13 @@
 - **Obras sugeridas:**
 	- 5 minutos / A viuvinha – José de Alencar
 
-## 3º Bimestre
+### Atividades Avaliativas
+- `10,0`: Prova Bimestral
+- `05,0`: Atividades em sala de aula
+- `07,0`: Simulados e Redações
+- `03,0`: Atividades do Classroom
+
+## 🔴 3º Bimestre
 
 - **Leitura**
 	- [ ] Textos argumentativos na mídia
@@ -51,16 +57,21 @@
 	- [ ] Verbo: flexão e usos
 	- [ ] Modos e tempos verbais
 - **Literatura**
-	- [ ] Realismo
+	- [x] Realismo
 	- [ ] Naturalismo o Contexto histórico e principais características o Crítica social e objetividade
 - **Obras sugeridas**
 	- [ ] Contos – Machado de Assis
 
 ### Atividades
-- **Atividade A:** 
-- **Atividade B:** 
+- **Visto A:** Características do Realismo
 
-## 4º Bimestre
+### Atividades Avaliativas
+- `10,0`: Prova Bimestral
+- `05,0`: Atividades em sala de aula
+- `xx,0`: Simulados e Redações
+- `xx,0`: Atividades do Classroom
+
+## 🔴 4º Bimestre
 
 - Leitura • Estudo comparativo entre diferentes tipos textuais • Leitura crítica de textos midiáticos • Habilidades da BNCC: EM13LP06, EM13LP07
 
