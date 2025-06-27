@@ -2,7 +2,6 @@
 
 
 ## 1º BIMESTRE
-## 1º bimestre[](https://robsonfvilela.github.io/professor-robson/escolas/1eemp_conteudo.html#%C2%BA-bimestre)
 
 - **Conceitos fundamentais:**
 	- língua,
