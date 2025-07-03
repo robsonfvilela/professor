@@ -49,6 +49,7 @@
 - **Leitura**
 	- [ ] Textos argumentativos na mídia
 	- [ ] Análise de recursos persuasivos
+		- [x] Discurso Político
 - **Produção de Texto**
 	- [ ] Redação de textos dissertativo-argumentativos
 	- [ ] Coerência e progressão textual
