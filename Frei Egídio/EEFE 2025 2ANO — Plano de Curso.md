@@ -112,6 +112,7 @@
 
 ### Atividades
 - **Visto A:** [Mapa-Mental dos Pronomes](https://drive.google.com/file/d/15UTiORJEQ2eGN9u5HMkrM1E5soeiaX_S/view?usp=drivesdk)
+- **Visto B**: [Cantiga para não morrer](https://docs.google.com/document/d/11OETNm9rpk2J5ev0S9owVK2T81KNqYAA4McxmEFeoc0/edit?tab=t.0#heading=h.grnzg4ax6um)
 
 ### Distribuição de Notas
 
