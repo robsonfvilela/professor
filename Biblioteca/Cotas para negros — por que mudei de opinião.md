@@ -11,8 +11,6 @@ tags:
 ---
 ## Cotas para negros: por que mudei de opinião. Juiz federal, mestre em Direito e ferrenho opositor das cotas explica as razões que o fizeram mudar de ideia
 
-![william douglas favor das cotas para negros](https://www.pragmatismopolitico.com.br/wp-content/uploads/2013/11/william-douglas-direito2-500x375.jpg)
-
 O escritor e Juiz Federal William Douglas (divulgação)
 
 *William Douglas, juiz federal (RJ), mestre em Direito (UGF), especialista em Políticas Públicas e Governo (EPPG/UFRJ), professor e escritor, caucasiano e de olhos azuis*
@@ -58,4 +56,4 @@ Então, como diria Roberto Lyra, em uma de suas falas, “ *O sol nascerá para 
 Justiça expressa pelo amor e pela experiência, não pelas teses. As cotas são justas, honestas, solidárias, necessárias. E, mais que tudo, urgentes. Ou fique a favor, ou pelo menos visite a cadeia.
 
 
-> Disponível em: <https://www.pragmatismopolitico.com.br/2013/11/por-que-tornei-favor-das-cotas-para-negros.html>. Acesso em: 26 ago. 2025.
+> Disponível em: \< https://www.pragmatismopolitico.com.br/2013/11/por-que-tornei-favor-das-cotas-para-negros.html \>. Acesso em: 26 ago. 2025.
