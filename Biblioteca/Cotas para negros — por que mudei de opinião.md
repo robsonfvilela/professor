@@ -1,0 +1,61 @@
+---
+title: "Por que me tornei a favor das cotas para negros"
+source: "https://www.pragmatismopolitico.com.br/2013/11/por-que-tornei-favor-das-cotas-para-negros.html"
+author:
+  - "[[Pragmatismo Político]]"
+published: 2013-11-12
+created: 2025-08-26
+description: "Por que me tornei a favor das cotas para negros: por que mudei de opinião. Juiz federal, mestre em Direito e ferrenho opositor das cotas explica as razões que o fizeram mudar de ideia"
+tags:
+  - "clippings"
+---
+## Cotas para negros: por que mudei de opinião. Juiz federal, mestre em Direito e ferrenho opositor das cotas explica as razões que o fizeram mudar de ideia
+
+![william douglas favor das cotas para negros](https://www.pragmatismopolitico.com.br/wp-content/uploads/2013/11/william-douglas-direito2-500x375.jpg)
+
+O escritor e Juiz Federal William Douglas (divulgação)
+
+*William Douglas, juiz federal (RJ), mestre em Direito (UGF), especialista em Políticas Públicas e Governo (EPPG/UFRJ), professor e escritor, caucasiano e de olhos azuis*
+
+Roberto Lyra, Promotor de Justiça, um dos autores do Código Penal de 1940, ao lado de Alcântara Machado e Nelson Hungria, recomendava aos colegas de Ministério Público que “antes de se pedir a prisão de alguém deveria se passar um dia na cadeia”. Gênio, visionário e à frente de seu tempo, Lyra informava que apenas a experiência viva permite compreender bem uma situação.
+
+Quem procurar meus artigos, verá que no início era contra as cotas para negros, defendendo – com boas razões, eu creio – que seria mais razoável e menos complicado reservá-las apenas para os oriundos de escolas públicas. Escrevo hoje para dizer que não penso mais assim. **As cotas para negros também devem existir**. E digo mais: a urgência de sua consolidação e aperfeiçoamento é extraordinária.
+
+Embora juiz federal, não me valerei de argumentos jurídicos. A Constituição da República é pródiga em planos de igualdade, de correção de injustiças, de construção de uma sociedade mais justa. Quem quiser, nela encontrará todos os fundamentos que precisa. A Constituição de 1988 pode ser usada como se queira, mas me parece evidente que a sua intenção é, de fato, tornar esse país melhor e mais decente. Desde sempre as leis reservaram privilégios para os abastados, não sendo de se exasperarem as classes dominantes se, umas poucas vezes ao menos, sesmarias, capitanias hereditárias, cartórios e financiamentos se dirigirem aos mais necessitados.
+
+Não me valerei de argumentos técnicos nem jurídicos dado que ambos os lados os têm em boa monta, e o valor pessoal e a competência dos contendores desse assunto comprovam que há gente de bem, capaz, bem intencionada, honesta e com bons fundamentos dos dois lados da cerca: os que querem as cotas para negros, e os que a rejeitam, todos com bons argumentos.
+
+Por isso, em texto simples, quero deixar clara minha posição como homem, cristão, cidadão, juiz, professor, “guru dos concursos” e qualquer outro adjetivo a que me proponha: **as cotas para negros devem ser mantidas e aperfeiçoadas**. E meu melhor argumento para isso é o aquele que me convenceu a trocar de lado: “passar um dia na cadeia”. Professor de técnicas de estudo, há nove anos venho fazendo palestras gratuitas sobre como passar no vestibular para a EDUCAFRO, pré-vestibular para negros e carentes.
+
+Mesmo sendo, por ideologia, contra um pré-vestibular “para negros”, aceitei convite para aulas como voluntário naquela ONG por entender que isso seria uma contribuição que poderia ajudar, ou seja, aulas, doação de livros, incentivo. Sempre foi complicado chegar lá e dizer minha antiga opinião contra cotas para negros, mas fazia minha parte com as aulas e livros. E nessa convivência fui descobrindo que se ser pobre é um problema, ser pobre e negro é um problema maior ainda.
+
+Meu pai foi lavrador até seus 19 anos, minha mãe operária de “chão de fábrica”, fui pobre quando menino, remediado quando adolescente. Nada foi fácil, e não cheguei a juiz federal, a 350.000 livros vendidos e a fazer palestras para mais de 750.000 pessoas por um caminho curto, nem fácil. Sei o que é não ter dinheiro, nem portas, nem espaço. Mas tive heróis que me abriram a picada nesse matagal onde passei. E conheço outros heróis, negros, que chegaram longe, como Benedito Gonçalves, Ministro do STJ, Angelina Siqueira, juíza federal. Conheço vários heróis, negros, do Supremo à portaria de meu prédio.
+
+Apenas não acho que temos que exigir heroísmo de cada menino pobre e negro desse país. Minha filha, loura e de olhos claros, estuda há três anos num colégio onde não há um aluno negro sequer, onde há brinquedos, professores bem remunerados, aulas de tudo; sua similar negra, filha de minha empregada, e com a mesma idade, entrou na escola esse ano, escola sem professores, sem carteiras, com banheiro quebrado. Minha filha tem psicóloga para ajudar a lidar com a separação dos pais, foi à Disney, tem aulas de Ballet. A outra, nada, tem um quintal de barro, viagens mais curtas. A filha da empregada, que ajudo quanto posso, visitou minha casa e saiu com o sonho de ter seu próprio quarto, coisa que lhe passou na cabeça quando viu o quarto de minha filha, lindo, decorado, com armário inundado de roupas de princesa. Toda menina é uma princesa, mas há poucas das princesas negras com vestidos compatíveis, e armários, e escolas compatíveis, nesse país imenso. A princesa negra disse para sua mãe que iria orar para Deus pedindo um quarto só para ela, e eu me incomodei por lembrar que Deus ainda insiste em que usemos nossas mãos humanas para fazer Sua Justiça. Sei que Deus espera que eu, seu filho, ajude nesse assunto. E se não cresse em Deus como creio, saberia que com ou sem um ser divino nessa história, esse assunto não está bem resolvido. O assunto demanda de todos nós uma posição consistente, uma que não se prenda apenas à teorias e comece a resolver logo os fatos do cotidiano: faltam quartos e escolas boas para as princesas negras, e também para os príncipes dessa cor de pele.
+
+Não que tenha nada contra o bem estar da minha menina: os avós e os pais dela deram (e dão) muito duro para ela ter isso. Apenas não acho justo nem honesto que lá na frente, daqui a uma década de desigualdade, ambas sejam exigidas da mesma forma. Eu direi para minha filha que a sua similar mais pobre deve ter alguma contrapartida para entrar na faculdade. Não seria igualdade nem honesto tratar as duas da mesma forma só ao completarem quinze anos, mas sim uma desmesurada e cruel maldade, para não escolher palavras mais adequadas.
+
+Não se diga que possamos deixar isso para ser resolvido só no ensino fundamental e médio. É quase como não fazer nada e dizer que tudo se resolverá um dia, aos poucos. Já estamos com duzentos anos de espera por dias mais igualitários. Os pobres sempre foram tratados à margem. O caso é urgente: vamos enfrentar o problema no ensino fundamental, médio, cotas, universidade, distribuição de renda, tributação mais justa e assim por diante. Não podemos adiar nada, nem aguardar nem um pouco.
+
+Foi vendo meninos e meninas negros, e negros e pobres, tentando uma chance, sofrendo, brilhando nos olhos uma esperança incômoda diante de tantas agruras, que fui mudando minha opinião. Não foram argumentos jurídicos, embora eu os conheça, foi passar não um, mas vários “dias na cadeia”. Na cadeia deles, os pobres, lugar de onde vieram meus pais, de um lugar que experimentei um pouco só quando mais moço. De onde eles vêm, as cotas fazem todo sentido.
+
+Se alguém discorda das cotas, me perdoe, mas não devem faze-lo olhando os livros e teses, ou seus temores. Livros, teses, doutrinas e leis servem a qualquer coisa, até ao nazismo. Temores apenas toldam a visão serena. Para quem é contra, com respeito, recomendo um dia “na cadeia”. Um dia de palestra para quatro mil pobres, brancos e negros, onde se vê a esperança tomar forma e precisar de ajuda. Convido todos que são contra as cotas a passar conosco, brancos e negros, uma tarde num cursinho pré-vestibular para quem não tem pão, passagem, escola, psicólogo, cursinho de inglês, ballet, nem coisa parecida, inclusive professores de todas as matérias no ensino médio.
+
+Se você é contra as cotas para negros, eu o respeito. Aliás, também fui contra por muito tempo. Mas peço uma reflexão nessa semana: na escola, no bairro, no restaurante, nos lugares que freqüenta, repare quantos negros existem ao seu lado, em condições de igualdade (não vale porteiro, motorista, servente ou coisa parecida). Se há poucos negros ao seu redor, me perdoe, mas você precisa “passar um dia na cadeia” antes de firmar uma posição coerente não com as teorias (elas servem pra tudo), mas com a realidade desse país. Com nossa realidade urgente. Nada me convenceu, amigos, senão a realidade, senão os meninos e meninas querendo estudar ao invés de qualquer outra coisa, querendo vencer, querendo uma chance.
+
+Ah, sim, “os negros vão atrapalhar a universidade, baixar seu nível”, conheço esse argumento e ele sempre me preocupou, confesso. Mas os cotistas já mostraram que sua média de notas é maior, e menor a média de faltas do que as de quem nunca precisou das cotas. Curiosamente, negros ricos e não cotistas faltam mais às aulas do que negros pobres que precisaram das cotas. A explicação é simples: apesar de tudo a menos por tanto tempo, e talvez por isso, eles se agarram com tanta fé e garra ao pouco que lhe dão, que suas notas são melhores do que a média de quem não teve tanta dificuldade para pavimentar seu chão. Somos todos humanos, e todos frágeis e toscos: apenas precisamos dar chance para todos.
+
+**Precisamos confirmar as cotas para negros e para os oriundos da escola pública.** Temos que podemos considerar não apenas os deficientes físicos (o que todo mundo aceita), mas também os econômicos, e dar a eles uma oportunidade de igualdade, uma contrapartida para caminharem com seus co-irmãos de raça (humana) e seus concidadãos, de um país que se quer solidário, igualitário, plural e democrático. Não podemos ter tanta paciência para resolver a discriminação racial que existe na prática: vamos dar saltos ao invés de rastejar em direção a políticas afirmativas de uma nova realidade.
+
+Se você não concorda, respeito, mas só se você passar um dia conosco “na cadeia”. Vendo e sentindo o que você verá e sentirá naquele meio, ou você sairá concordando conosco, ou ao menos sem tanta convicção contra o que estamos querendo: igualdade de oportunidades, ou ao menos uma chance. Não para minha filha, ou a sua, elas não precisarão ser heroínas e nós já conseguimos para elas uma estrada. Queremos um caminho para passar quem não está tendo chance alguma, ao menos chance honesta. Daqui a alguns poucos anos, se vierem as cotas, a realidade será outra. Uma melhor. E queremos você conosco nessa história.
+
+Não creio que esse mundo seja seguro para minha filha, que tem tudo, se ele não for ao menos um pouco mais justo para com os filhos dos outros, que talvez não tenham tido minha sorte. Talvez seus filhos tenham tudo, mas tudo não basta se os filhos dos outros não tiverem alguma coisa. Seja como for, por ideal, egoísmo (de proteger o mundo onde vão morar nossos filhos), ou por passar alguns dias por ano “na cadeia” com meninos pobres, negros, amarelos, pardos, brancos, é que aposto meus olhos azuis dizendo que precisamos das cotas, agora.
+
+E, claro, financiar os meninos pobres, negros, pardos, amarelos e brancos, para que estudem e pelo conhecimento mudem sua história, e a do nosso país comum pois, afinal de contas, moraremos todos naquilo que estamos construindo.
+
+Então, como diria Roberto Lyra, em uma de suas falas, “ *O sol nascerá para todos. Todos dirão – nós – e não – eu. E amarão ao próximo por amor próprio. Cada um repetirá: possuo o que dei. Curvemo-nos ante a aurora da verdade dita pela beleza, da justiça expressa pelo amor.*”
+
+Justiça expressa pelo amor e pela experiência, não pelas teses. As cotas são justas, honestas, solidárias, necessárias. E, mais que tudo, urgentes. Ou fique a favor, ou pelo menos visite a cadeia.
+
+
+> Disponível em: <https://www.pragmatismopolitico.com.br/2013/11/por-que-tornei-favor-das-cotas-para-negros.html>. Acesso em: 26 ago. 2025.
