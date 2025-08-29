@@ -52,3 +52,37 @@ Identifique a locução verbal que aparece na anedota e substitua-a por uma form
 
 ## Questão 04
 Complete as frases, empregando no futuro do pretérito os verbos indicados:
+
+a) Se ela trouxesse as chaves, nós ••••• entrar no salão. (poder)[^4a]
+
+[^4a]: **4. a)** poderíamos
+
+b) Se eles deixassem, vocês •••••  as cartas. (escrever)[^4b]
+
+[^4b]: **4. b)** escreveriam
+
+c) Eu ••••• o convite, se pudesse. (aceitar) [^4c]
+
+[^4c]: **4. c)**  aceitaria
+
+d) Se nós disséssemos isso, certamente eles se ••••• (ofender)[^4c]
+
+[^4d]: **4. d)** ofenderiam
+
+---
+
+## Questão 05
+Complete as frases, empregando no futuro do presente os verbos indicados:
+
+a) Quando eles chegarem, nós ••••• imediatamente seu convite. (entregar)[^5a]
+
+[^5a]: **5. a)** entregaremos
+
+b) Quando ela vir você tão bem, não ••••• (acreditar)[^5b]
+
+[^5b]: **5. b)** acreditará
+
+c) Enquanto eu não obtiver todos os dados, não ••••• a pesquisa. (terminar)[^5c]
+
+[^5c]: **5. c)** terminarei
+
