@@ -6,6 +6,8 @@ A foto abaixo é do fotógrafo francês Pierre Verger, que viveu na Bahia ent
 
 > (**O Brasil de Pierre Verger.** Rio de Janeiro: Fundação Pierre Verger, 2006. p. 40.)
 
+---
+
 ## Questão 01
 A foto retrata uma cena de rua da década de 1950, época em que circulavam bondes. Observe a imagem.
 
@@ -16,6 +18,8 @@ a) Qual é o destino do bonde?[^1]
 b) Quanto custava a passagem?[^2]
 
 [^2]: **1. b)** Custava 200 réis. Professor: Comente que réis é plural de real, moeda da época.
+
+---
 
 ## Questão 02
 Observe o homem que está à frente do bonde, do lado de fora.
@@ -31,6 +35,8 @@ b) O que tem nas mãos?[^2b]
 c) Pela expressão facial, como ele parece estar?[^2c]
 
 [^2c]: **2. c)** Ele parece estar pensativo, reflexivo.
+
+---
 
 ## Questão 03
 Observe o local, como está o dia e as vestimentas de outras pessoas do bonde.
@@ -51,6 +57,8 @@ d)  Em que momento do dia ocorre a cena?[^3d]
 
 [^3d]: **3. d)** Ocorre durante o dia, em horário impreciso.
 
+---
+
 ## Questão 04
 Leia este comentário de Ordep Serra a respeito do travestimento carnavalesco:
 
@@ -60,6 +68,8 @@ Observe a pessoa que está no detalhe da foto reproduzido acima e o homem que e
 O comentário de Ordep Serra se aplica a essas pessoas da foto? Justifique sua resposta.[^4]
 
 [^4]: **4.** Sim, pois o homem da frente tem bigode e usa relógio masculino. O outro, do detalhe, embora também esteja vestido de mulher, tem as pernas peludas e usa tênis.
+
+---
 
 ## Questão 05
 A cena retratada expressa movimento, ações. Indique, entre as ações a seguir, aquelas que estão relacionadas à cena.[^5]
@@ -83,6 +93,8 @@ g) brincar
 h) olhar
 
 i) ouvir
+
+---
 
 ## Questão 06
 Leia esta tira:
