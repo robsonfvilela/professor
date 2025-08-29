@@ -78,7 +78,7 @@ a) Quando eles chegarem, nós ### imediatamente seu convite. (entregar)[^5a]
 
 [^5a]: **5. a)** entregaremos
 
-b) Quando ela vir você tão bem, não ### (acreditar)[^5b]
+b) Quando ela vir você tão bem, não ###. (acreditar)[^5b]
 
 [^5b]: **5. b)** acreditará
 
@@ -86,3 +86,36 @@ c) Enquanto eu não obtiver todos os dados, não ### a pesquisa. (terminar)[^5
 
 [^5c]: **5. c)** terminarei
 
+**Leia esta tira, de Fernando Gonsales:**
+
+![](https://www1.folha.uol.com.br/fsp/images/niqu22122001.gif)
+
+## Questão 06
+Em que tempo e modo se encontram as formas verbais do 1o quadrinho?[^6]
+
+[^6]: **6.** **fosse:** pretérito imperfeito do subjuntivo; **seria:** futuro do pretérito do indicativo
+
+## Questão 07
+Na frase do 2º quadrinho, temos:[^7]
+
+[^7]: **7.** Resposta **A**.
+
+a) formas verbais no infinitivo e no gerúndio, respectivamente.  
+
+b) formas verbais no infinitivo e no particípio, respectivamente.
+
+c) formas verbais no particípio e no gerúndio, respectivamente.
+
+d) formas verbais no gerúndio e no infinitivo, respectivamente.
+
+## Questão 08
+Em cada fala do 4º quadrinho, há uma forma verbal omitida, identificável pelo contexto. Qual é ela? Em que tempo e modo ela está?[^8]
+
+[^8]: **8.** A forma verbal é *seria*; está no futuro do pretérito do indicativo.
+
+## Questão 09
+Como é característico das tiras, o último quadrinho surpreende o leitor. Qual é o elemento responsável por essa surpresa e por que ele provoca
+humor?[^9]
+
+[^9]: **9.** O motivo dado pela ratinha para querer ser cobra; ele provoca
+humor porque sugere que ela não aprecia a voz de Níquel ou que está cansada de falatório.
