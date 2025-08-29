@@ -8,11 +8,15 @@ Leia esta tira:
 
 a) Identifique um verbo empregado no modo subjuntivo.[^1a]
 
-[^1a]: 1. a) quando eu *crescer*
+[^1a]: **1. a)** → quando eu *crescer*
 
-b) Identifique uma locução verbal.^[1. b)  vou ser; vou contribuir ]
+b) Identifique uma locução verbal.[^1b]
 
-c) Por que Mafalda inclui o judô na sua formação?^[1. c) Porque percebe que o grau de agressividade verbal pode desencadear uma agressão corporal; nesse caso, ela precisará saber se defender.]
+[^1b]: **1. b)** → vou ser; vou contribuir 
+
+c) Por que Mafalda inclui o judô na sua formação?[^1c]
+
+[^1c]: **1. c)** → Porque percebe que o grau de agressividade verbal pode desencadear uma agressão corporal; nesse caso, ela precisará saber se defender.]
 
 
 
