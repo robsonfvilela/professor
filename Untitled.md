@@ -2,7 +2,7 @@
 
 A foto abaixo é do fotógrafo francês Pierre Verger, que viveu na Bahia entre 1946 e 1996, ano de sua morte. Nela é retratado um dos temas pelos quais o fotógrafo mais se interessou em nosso país: a cul- tura popular.
 
-![](https://ogimg.infoglobo.com.br/in/16548684-742-172/FT1086A/760/2015-826966889-carnavalrio-de-janeiro-1941.jpg_20150621.jpg)
+![](https://www.dropbox.com/scl/fi/6p9ur7jwkioc6q8fn2kr0/cascadura.jpeg?rlkey=jsflxy8tlzx9026ey0xgihsdu&raw=true)
 
 > (**O Brasil de Pierre Verger.** Rio de Janeiro: Fundação Pierre Verger, 2006. p. 40.)
 
