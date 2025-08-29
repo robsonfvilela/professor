@@ -64,7 +64,8 @@ Leia este comentário de Ordep Serra a respeito do travestimento carnavalesco:
 
 > Como regra, tem de ser mesmo acentuado o contraste entre a evidência da condição masculina do travestido e sua fantasia feminina. Um travestimento muito benfeito, capaz de iludir [...], é coisa que o travestido carnavalesco típico evita. A maquiagem, os trejeitos de mulher, as roupas femininas são exagerados, mas também ficam visíveis traços másculos do por- tador, que resultam até salientados.
 
-Observe a pessoa que está no detalhe da foto reproduzido acima e o homem que está à frente do bonde.  
+Observe a pessoa que está no detalhe da foto reproduzido acima e o homem que está à frente do bonde.
+
 O comentário de Ordep Serra se aplica a essas pessoas da foto? Justifique sua resposta.[^4]
 
 [^4]: **4.** Sim, pois o homem da frente tem bigode e usa relógio masculino. O outro, do detalhe, embora também esteja vestido de mulher, tem as pernas peludas e usa tênis.
