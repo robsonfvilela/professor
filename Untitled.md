@@ -52,3 +52,8 @@ Identifique a locução verbal que aparece na anedota e substitua-a por uma form
 
 ## Questão 04
 Complete as frases, empregando no futuro do pretérito os verbos indicados:
+
+a) Se ela trouxesse as chaves, nós __________ entrar no salão. (poder)[^4a]
+
+[^4a]: **4. a)** poderíamos
+
