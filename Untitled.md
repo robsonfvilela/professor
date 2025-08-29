@@ -65,7 +65,7 @@ c) Eu ### o convite, se pudesse. (aceitar)[^4c]
 
 [^4c]: **4. c)** aceitaria
 
-d) Se nós disséssemos isso, certamente eles se ###. (ofender)[^4c]
+d) Se nós disséssemos isso, certamente eles se ###. (ofender)[^4d]
 
 [^4d]: **4. d)** ofenderiam
 
