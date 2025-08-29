@@ -10,7 +10,6 @@
 
 📂 [Drive (Redação )](https://drive.google.com/drive/folders/1ZHcR_ACWzVnQlWD2txzfq2YTNATlWFaY) 🔗
 
-
 ![[qr-code.png|200]]
 
 ---
