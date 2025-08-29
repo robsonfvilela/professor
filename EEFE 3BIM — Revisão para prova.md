@@ -136,19 +136,19 @@ Identifique a locução verbal que aparece na anedota e substitua-a por uma form
 ## Questão 09
 Complete as frases, empregando no futuro do pretérito os verbos indicados:
 
-a) Se ela trouxesse as chaves, nós ### entrar no salão. (poder)[^9a]
+a) Se ela trouxesse as chaves, nós ••••• entrar no salão. (poder)[^9a]
 
 [^9a]: **9. a)** poderíamos
 
-b) Se eles deixassem, vocês ###  as cartas. (escrever)[^9b]
+b) Se eles deixassem, vocês •••••  as cartas. (escrever)[^9b]
 
 [^9b]: **9. b)** escreveriam
 
-c) Eu ### o convite, se pudesse. (aceitar)[^9c]
+c) Eu ••••• o convite, se pudesse. (aceitar)[^9c]
 
 [^9c]: **9. c)** aceitaria
 
-d) Se nós disséssemos isso, certamente eles se ###. (ofender)[^9d]
+d) Se nós disséssemos isso, certamente eles se •••••. (ofender)[^9d]
 
 [^9d]: **9. d)** ofenderiam
 
@@ -157,15 +157,15 @@ d) Se nós disséssemos isso, certamente eles se ###. (ofender)[^9d]
 ## Questão 10
 Complete as frases, empregando no futuro do presente os verbos indicados:
 
-a) Quando eles chegarem, nós ### imediatamente seu convite. (entregar)[^10a]
+a) Quando eles chegarem, nós ••••• imediatamente seu convite. (entregar)[^10a]
 
 [^10a]: **10. a)** entregaremos
 
-b) Quando ela vir você tão bem, não ###. (acreditar)[^10b]
+b) Quando ela vir você tão bem, não •••••. (acreditar)[^10b]
 
 [^10b]: **10. b)** acreditará
 
-c) Enquanto eu não obtiver todos os dados, não ### a pesquisa. (terminar)[^10c]
+c) Enquanto eu não obtiver todos os dados, não ••••• a pesquisa. (terminar)[^10c]
 
 [^10c]: **10. c)** terminarei
 
