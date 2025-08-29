@@ -6,7 +6,9 @@ Leia esta tira:
 ![](https://deixeseacreditar.wordpress.com/wp-content/uploads/2015/10/mafalda2.jpg)
 
 
-a) Identifique um verbo empregado no modo subjuntivo.^[1. a) quando eu *crescer*]
+a) Identifique um verbo empregado no modo subjuntivo.[^1a]
+
+[^1a]: 1. a) quando eu *crescer*
 
 b) Identifique uma locução verbal.^[1. b)  vou ser; vou contribuir ]
 
