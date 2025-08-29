@@ -85,3 +85,4 @@ b) Quando ela vir você tão bem, não -----. (acreditar)[^5b]
 c) Enquanto eu não obtiver todos os dados, não ----- a pesquisa. (terminar)[^5c]
 
 [^5c]: **5. c)** terminarei
+
