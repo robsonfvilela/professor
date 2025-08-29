@@ -116,7 +116,7 @@
 
 ### Distribuição de Notas
 
-- **10,0:** Avaliação Bimestral → [[EEFE 3BIM — Revisão para prova|Revisão para prova]]
+- **10,0:** Avaliação Bimestral → [[EEFE 2025 3BIM — Revisão para prova|Revisão para prova]]
 - **05,0:** [Hemeroteca](https://drive.google.com/file/d/11GoskERk7oWcNfvqU8KTbZ2GdtVBxenk/view?usp=share_link) [[Cotas para negros — por que mudei de opinião]]
 - **05,0:** Simulados e Redações
 - **05,0:** Atividades em sala de aula no caderno
