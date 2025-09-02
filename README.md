@@ -7,6 +7,4 @@ bit.ly/prof-robson
 
 <br>
 
-<a href="https://bit.ly/prof-robson">
-<img src="Biblioteca/bit.ly_prof-robson.png"></img>
-</a>
+![](Biblioteca/bit.ly_prof-robson.png)
