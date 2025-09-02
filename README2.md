@@ -1,12 +1,17 @@
 # ⭐️ Professor Robson
 
-<a href="https://bit.ly/prof-robson">
-bit.ly/prof-robson
-</a>
+📘 [[EEFE 2025|Frei Egídio Parisi]]
 
+📕 [[EEMP 2025|Messias Pedreiro]]
 
-<br>
+📑 [Material Didático (GitHub)](https://robsonfvilela.github.io/professor-robson/) 🔗
 
-<a href="https://bit.ly/prof-robson">
-<img src="Biblioteca/bit.ly_prof-robson.png">
-</a>
+📂 [Drive (PDF)](https://drive.google.com/drive/folders/1bJ_7Ii1ZqeUI2tylCDWfMB56MMFEFL4v) 🔗
+
+📂 [Drive (Redação )](https://drive.google.com/drive/folders/1ZHcR_ACWzVnQlWD2txzfq2YTNATlWFaY) 🔗
+
+![[qr-code.png|200]]
+
+---
+
+> 2025 [Professor Robson](http://bit.ly/professor-robson) | **e-mail:** robson.vilela@educacao.mg.gov.br
