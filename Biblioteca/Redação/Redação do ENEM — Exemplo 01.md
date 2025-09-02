@@ -1,6 +1,6 @@
 # Redação do ENEM — Exemplo 1
 
-[[README|Índice]] | 📘 [[EEFE 2025|Frei Egídio]] | 📕 [[EEMP 2025|Messias Pedreiro]]
+[[README2|Índice]] | 📘 [[EEFE 2025|Frei Egídio]] | 📕 [[EEMP 2025|Messias Pedreiro]]
 
 ## Texto
 - **Tema:** Desafios para a valorização de comunidades e povos tradicionais no Brasil
