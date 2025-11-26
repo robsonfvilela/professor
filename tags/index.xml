@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags :: Robson</title>
+    <title>Tags :: Prof. Robson</title>
     <link>http://robsonfvilela.github.io/professor/tags/index.html</link>
     <description></description>
     <generator>Hugo</generator>
@@ -9,16 +9,23 @@
     <lastBuildDate>Wed, 19 Nov 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://robsonfvilela.github.io/professor/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Tag :: Biografia</title>
+      <link>http://robsonfvilela.github.io/professor/tags/biografia/index.html</link>
+      <pubDate>Wed, 19 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>http://robsonfvilela.github.io/professor/tags/biografia/index.html</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Tag :: About</title>
       <link>http://robsonfvilela.github.io/professor/tags/about/index.html</link>
-      <pubDate>Wed, 19 Nov 2025 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 20 Jun 2024 00:00:00 +0000</pubDate>
       <guid>http://robsonfvilela.github.io/professor/tags/about/index.html</guid>
       <description></description>
     </item>
     <item>
       <title>Tag :: Personal</title>
       <link>http://robsonfvilela.github.io/professor/tags/personal/index.html</link>
-      <pubDate>Wed, 19 Nov 2025 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 20 Jun 2024 00:00:00 +0000</pubDate>
       <guid>http://robsonfvilela.github.io/professor/tags/personal/index.html</guid>
       <description></description>
     </item>
@@ -27,13 +34,6 @@
       <link>http://robsonfvilela.github.io/professor/tags/terminal/index.html</link>
       <pubDate>Thu, 20 Jun 2024 00:00:00 +0000</pubDate>
       <guid>http://robsonfvilela.github.io/professor/tags/terminal/index.html</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Tag :: Git</title>
-      <link>http://robsonfvilela.github.io/professor/tags/git/index.html</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://robsonfvilela.github.io/professor/tags/git/index.html</guid>
       <description></description>
     </item>
     <item>
