@@ -5,7 +5,7 @@ var relearn_searchindex = [
     "description": "",
     "tags": [],
     "title": "Meu Terceiro Post",
-    "uri": "/posts/meu-terceiro-post/index.html"
+    "uri": "/professor/posts/meu-terceiro-post/index.html"
   },
   {
     "breadcrumb": "Bem-vindo!",
@@ -13,7 +13,7 @@ var relearn_searchindex = [
     "description": "",
     "tags": [],
     "title": "Posts",
-    "uri": "/posts/index.html"
+    "uri": "/professor/posts/index.html"
   },
   {
     "breadcrumb": "Bem-vindo! \u003e Posts",
@@ -21,7 +21,7 @@ var relearn_searchindex = [
     "description": "lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque sit amet accumsan arcu. Proin ac consequat arcu. Maecenas et sem vel massa tempor egestas. Donec non justo sed elit efficitur luctus. Sed at felis semper, elementum erat a, varius quam. Vivamus euismod, nisi vel consectetur interdum, nisl nisi aliquet nunc, quis gravida nunc nisl in mauris. Curabitur euismod, nisl vel consectetur interdum, nisl nisi aliquet nunc, quis gravida nunc nisl in mauris.",
     "tags": [],
     "title": "Meu Segundo Post",
-    "uri": "/posts/meu-segundo-post/index.html"
+    "uri": "/professor/posts/meu-segundo-post/index.html"
   },
   {
     "breadcrumb": "Bem-vindo! \u003e Posts",
@@ -29,7 +29,7 @@ var relearn_searchindex = [
     "description": "",
     "tags": [],
     "title": "Meu Primeiro Post",
-    "uri": "/posts/meu-primeiro-post/index.html"
+    "uri": "/professor/posts/meu-primeiro-post/index.html"
   },
   {
     "breadcrumb": "Bem-vindo! \u003e Tags",
@@ -37,7 +37,7 @@ var relearn_searchindex = [
     "description": "",
     "tags": [],
     "title": "Tag :: About",
-    "uri": "/tags/about/index.html"
+    "uri": "/professor/tags/about/index.html"
   },
   {
     "breadcrumb": "Bem-vindo!",
@@ -48,7 +48,7 @@ var relearn_searchindex = [
       "Personal"
     ],
     "title": "About Me",
-    "uri": "/about/index.html"
+    "uri": "/professor/about/index.html"
   },
   {
     "breadcrumb": "Bem-vindo! \u003e Tags",
@@ -56,7 +56,7 @@ var relearn_searchindex = [
     "description": "",
     "tags": [],
     "title": "Tag :: Personal",
-    "uri": "/tags/personal/index.html"
+    "uri": "/professor/tags/personal/index.html"
   },
   {
     "breadcrumb": "Bem-vindo!",
@@ -64,7 +64,7 @@ var relearn_searchindex = [
     "description": "",
     "tags": [],
     "title": "Tags",
-    "uri": "/tags/index.html"
+    "uri": "/professor/tags/index.html"
   },
   {
     "breadcrumb": "",
@@ -75,7 +75,7 @@ var relearn_searchindex = [
       "Personal"
     ],
     "title": "Bem-vindo!",
-    "uri": "/index.html"
+    "uri": "/professor/index.html"
   },
   {
     "breadcrumb": "Bem-vindo! \u003e Redação",
@@ -86,7 +86,7 @@ var relearn_searchindex = [
       "Terminal"
     ],
     "title": "Hugo",
-    "uri": "/redacao/hugo/index.html"
+    "uri": "/professor/redacao/hugo/index.html"
   },
   {
     "breadcrumb": "Bem-vindo! \u003e Tags",
@@ -94,7 +94,7 @@ var relearn_searchindex = [
     "description": "",
     "tags": [],
     "title": "Tag :: Hugo",
-    "uri": "/tags/hugo/index.html"
+    "uri": "/professor/tags/hugo/index.html"
   },
   {
     "breadcrumb": "Bem-vindo!",
@@ -104,7 +104,7 @@ var relearn_searchindex = [
       "Terminal"
     ],
     "title": "Redação",
-    "uri": "/redacao/index.html"
+    "uri": "/professor/redacao/index.html"
   },
   {
     "breadcrumb": "Bem-vindo! \u003e Tags",
@@ -112,7 +112,7 @@ var relearn_searchindex = [
     "description": "",
     "tags": [],
     "title": "Tag :: Terminal",
-    "uri": "/tags/terminal/index.html"
+    "uri": "/professor/tags/terminal/index.html"
   },
   {
     "breadcrumb": "Bem-vindo! \u003e Gramática",
@@ -122,7 +122,7 @@ var relearn_searchindex = [
       "Morfologia"
     ],
     "title": "08. Preposições",
-    "uri": "/gramatica/classes_de_palavras/preposicoes/index.html"
+    "uri": "/professor/gramatica/classes_de_palavras/preposicoes/index.html"
   },
   {
     "breadcrumb": "Bem-vindo! \u003e Gramática",
@@ -132,7 +132,7 @@ var relearn_searchindex = [
       "Mac"
     ],
     "title": "09. Conjuções",
-    "uri": "/gramatica/classes_de_palavras/conjucoes/index.html"
+    "uri": "/professor/gramatica/classes_de_palavras/conjucoes/index.html"
   },
   {
     "breadcrumb": "Bem-vindo!",
@@ -140,7 +140,7 @@ var relearn_searchindex = [
     "description": "",
     "tags": [],
     "title": "Categories",
-    "uri": "/categories/index.html"
+    "uri": "/professor/categories/index.html"
   },
   {
     "breadcrumb": "Bem-vindo! \u003e Redação",
@@ -152,7 +152,7 @@ var relearn_searchindex = [
       "Personal"
     ],
     "title": "Comandos",
-    "uri": "/redacao/terminal/index.html"
+    "uri": "/professor/redacao/terminal/index.html"
   },
   {
     "breadcrumb": "Bem-vindo! \u003e Tags",
@@ -160,7 +160,7 @@ var relearn_searchindex = [
     "description": "",
     "tags": [],
     "title": "Tag :: Fun",
-    "uri": "/tags/fun/index.html"
+    "uri": "/professor/tags/fun/index.html"
   },
   {
     "breadcrumb": "Bem-vindo! \u003e Tags",
@@ -168,7 +168,7 @@ var relearn_searchindex = [
     "description": "",
     "tags": [],
     "title": "Tag :: Git",
-    "uri": "/tags/git/index.html"
+    "uri": "/professor/tags/git/index.html"
   },
   {
     "breadcrumb": "Bem-vindo! \u003e Redação",
@@ -180,7 +180,7 @@ var relearn_searchindex = [
       "Personal"
     ],
     "title": "GIT",
-    "uri": "/redacao/git/index.html"
+    "uri": "/professor/redacao/git/index.html"
   },
   {
     "breadcrumb": "Bem-vindo!",
@@ -190,7 +190,7 @@ var relearn_searchindex = [
       "Mac"
     ],
     "title": "Gramática",
-    "uri": "/gramatica/index.html"
+    "uri": "/professor/gramatica/index.html"
   },
   {
     "breadcrumb": "Bem-vindo!",
@@ -201,7 +201,7 @@ var relearn_searchindex = [
       "Personal"
     ],
     "title": "Literatura",
-    "uri": "/literatura/index.html"
+    "uri": "/professor/literatura/index.html"
   },
   {
     "breadcrumb": "Bem-vindo! \u003e Tags",
@@ -209,7 +209,7 @@ var relearn_searchindex = [
     "description": "",
     "tags": [],
     "title": "Tag :: Mac",
-    "uri": "/tags/mac/index.html"
+    "uri": "/professor/tags/mac/index.html"
   },
   {
     "breadcrumb": "Bem-vindo! \u003e Tags",
@@ -217,7 +217,7 @@ var relearn_searchindex = [
     "description": "",
     "tags": [],
     "title": "Tag :: Morfologia",
-    "uri": "/tags/morfologia/index.html"
+    "uri": "/professor/tags/morfologia/index.html"
   },
   {
     "breadcrumb": "Bem-vindo! \u003e Tags",
@@ -225,7 +225,7 @@ var relearn_searchindex = [
     "description": "",
     "tags": [],
     "title": "Tag :: Tutorial",
-    "uri": "/tags/tutorial/index.html"
+    "uri": "/professor/tags/tutorial/index.html"
   },
   {
     "breadcrumb": "Bem-vindo! \u003e Tags",
@@ -233,7 +233,7 @@ var relearn_searchindex = [
     "description": "",
     "tags": [],
     "title": "Tag :: Vim",
-    "uri": "/tags/vim/index.html"
+    "uri": "/professor/tags/vim/index.html"
   },
   {
     "breadcrumb": "Bem-vindo! \u003e Redação",
@@ -245,6 +245,6 @@ var relearn_searchindex = [
       "Tutorial"
     ],
     "title": "Vim Keys",
-    "uri": "/redacao/vim-keys/index.html"
+    "uri": "/professor/redacao/vim-keys/index.html"
   }
 ]
