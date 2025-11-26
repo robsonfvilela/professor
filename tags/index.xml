@@ -23,24 +23,10 @@
       <description></description>
     </item>
     <item>
-      <title>Tag :: Hugo</title>
-      <link>http://robsonfvilela.github.io/professor/tags/hugo/index.html</link>
-      <pubDate>Thu, 20 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>http://robsonfvilela.github.io/professor/tags/hugo/index.html</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Tag :: Terminal</title>
       <link>http://robsonfvilela.github.io/professor/tags/terminal/index.html</link>
       <pubDate>Thu, 20 Jun 2024 00:00:00 +0000</pubDate>
       <guid>http://robsonfvilela.github.io/professor/tags/terminal/index.html</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Tag :: Fun</title>
-      <link>http://robsonfvilela.github.io/professor/tags/fun/index.html</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://robsonfvilela.github.io/professor/tags/fun/index.html</guid>
       <description></description>
     </item>
     <item>
@@ -62,20 +48,6 @@
       <link>http://robsonfvilela.github.io/professor/tags/morfologia/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://robsonfvilela.github.io/professor/tags/morfologia/index.html</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Tag :: Tutorial</title>
-      <link>http://robsonfvilela.github.io/professor/tags/tutorial/index.html</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://robsonfvilela.github.io/professor/tags/tutorial/index.html</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Tag :: Vim</title>
-      <link>http://robsonfvilela.github.io/professor/tags/vim/index.html</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://robsonfvilela.github.io/professor/tags/vim/index.html</guid>
       <description></description>
     </item>
   </channel>
