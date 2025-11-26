@@ -2,80 +2,80 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags :: Robson</title>
-    <link>http://robsonfvlela.github.io/tags/index.html</link>
+    <link>/tags/index.html</link>
     <description></description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Wed, 19 Nov 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://robsonfvlela.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Tag :: About</title>
-      <link>http://robsonfvlela.github.io/tags/about/index.html</link>
+      <link>/tags/about/index.html</link>
       <pubDate>Wed, 19 Nov 2025 00:00:00 +0000</pubDate>
-      <guid>http://robsonfvlela.github.io/tags/about/index.html</guid>
+      <guid>/tags/about/index.html</guid>
       <description></description>
     </item>
     <item>
       <title>Tag :: Personal</title>
-      <link>http://robsonfvlela.github.io/tags/personal/index.html</link>
+      <link>/tags/personal/index.html</link>
       <pubDate>Wed, 19 Nov 2025 00:00:00 +0000</pubDate>
-      <guid>http://robsonfvlela.github.io/tags/personal/index.html</guid>
+      <guid>/tags/personal/index.html</guid>
       <description></description>
     </item>
     <item>
       <title>Tag :: Hugo</title>
-      <link>http://robsonfvlela.github.io/tags/hugo/index.html</link>
+      <link>/tags/hugo/index.html</link>
       <pubDate>Thu, 20 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>http://robsonfvlela.github.io/tags/hugo/index.html</guid>
+      <guid>/tags/hugo/index.html</guid>
       <description></description>
     </item>
     <item>
       <title>Tag :: Terminal</title>
-      <link>http://robsonfvlela.github.io/tags/terminal/index.html</link>
+      <link>/tags/terminal/index.html</link>
       <pubDate>Thu, 20 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>http://robsonfvlela.github.io/tags/terminal/index.html</guid>
+      <guid>/tags/terminal/index.html</guid>
       <description></description>
     </item>
     <item>
       <title>Tag :: Fun</title>
-      <link>http://robsonfvlela.github.io/tags/fun/index.html</link>
+      <link>/tags/fun/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://robsonfvlela.github.io/tags/fun/index.html</guid>
+      <guid>/tags/fun/index.html</guid>
       <description></description>
     </item>
     <item>
       <title>Tag :: Git</title>
-      <link>http://robsonfvlela.github.io/tags/git/index.html</link>
+      <link>/tags/git/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://robsonfvlela.github.io/tags/git/index.html</guid>
+      <guid>/tags/git/index.html</guid>
       <description></description>
     </item>
     <item>
       <title>Tag :: Mac</title>
-      <link>http://robsonfvlela.github.io/tags/mac/index.html</link>
+      <link>/tags/mac/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://robsonfvlela.github.io/tags/mac/index.html</guid>
+      <guid>/tags/mac/index.html</guid>
       <description></description>
     </item>
     <item>
       <title>Tag :: Morfologia</title>
-      <link>http://robsonfvlela.github.io/tags/morfologia/index.html</link>
+      <link>/tags/morfologia/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://robsonfvlela.github.io/tags/morfologia/index.html</guid>
+      <guid>/tags/morfologia/index.html</guid>
       <description></description>
     </item>
     <item>
       <title>Tag :: Tutorial</title>
-      <link>http://robsonfvlela.github.io/tags/tutorial/index.html</link>
+      <link>/tags/tutorial/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://robsonfvlela.github.io/tags/tutorial/index.html</guid>
+      <guid>/tags/tutorial/index.html</guid>
       <description></description>
     </item>
     <item>
       <title>Tag :: Vim</title>
-      <link>http://robsonfvlela.github.io/tags/vim/index.html</link>
+      <link>/tags/vim/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://robsonfvlela.github.io/tags/vim/index.html</guid>
+      <guid>/tags/vim/index.html</guid>
       <description></description>
     </item>
   </channel>
