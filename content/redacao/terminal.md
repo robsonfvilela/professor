@@ -2,7 +2,7 @@
 title: Comandos
 # date: 2025-11-19
 tags: [terminal, fun, personal]
-draft: false
+draft: true
 ---
 
 ## Comando divertidos

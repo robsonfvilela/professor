@@ -1,6 +1,6 @@
-baseURL = 'http://robsonfvlela.github.io/'
+baseURL = 'http://robsonfvilela.github.io/professor'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Prof. Robson'
 contentDir = 'content'
 enableEmoji = true
 theme = 'hugo-theme-relearn'

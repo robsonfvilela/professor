@@ -5,4 +5,6 @@ draft: false
 tags: [about, personal]
 ---
 
-Bem-vindo!
+“Ao verme que primeiro roeu as frias carnes do meu cadáver dedico como saudosa lembrança estas memórias póstumas”.
+
+— Brás Cubas (Machado de Assis)

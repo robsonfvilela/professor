@@ -2,6 +2,7 @@
 title: Vim Keys
 # date: 2024-06-10
 tags: [terminal, vim, tutorial]
+draft: true
 ---
 
 <!--more-->

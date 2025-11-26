@@ -2,6 +2,7 @@
 title: Hugo
 date: 2024-06-20
 tags: [hugo, terminal]
+draft: true
 ---
 
 Documentação de referência para gerenciar este blog.

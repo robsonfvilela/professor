@@ -1,97 +1,62 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://robsonfvlela.github.io/posts/meu-terceiro-post/index.html</loc>
+    <loc>http://robsonfvilela.github.io/professor/posts/index.html</loc>
     <lastmod>2025-11-20T00:37:45-03:00</lastmod>
   </url>
   <url>
-    <loc>http://robsonfvlela.github.io/posts/index.html</loc>
-    <lastmod>2025-11-20T00:37:45-03:00</lastmod>
-  </url>
-  <url>
-    <loc>http://robsonfvlela.github.io/posts/meu-segundo-post/index.html</loc>
-    <lastmod>2025-11-20T00:18:44-03:00</lastmod>
-  </url>
-  <url>
-    <loc>http://robsonfvlela.github.io/posts/meu-primeiro-post/index.html</loc>
-    <lastmod>2025-11-19T23:39:26-03:00</lastmod>
-  </url>
-  <url>
-    <loc>http://robsonfvlela.github.io/tags/about/index.html</loc>
+    <loc>http://robsonfvilela.github.io/professor/tags/about/index.html</loc>
     <lastmod>2025-11-19T00:00:00+00:00</lastmod>
   </url>
   <url>
-    <loc>http://robsonfvlela.github.io/about/index.html</loc>
+    <loc>http://robsonfvilela.github.io/professor/about/index.html</loc>
     <lastmod>2025-11-19T00:00:00+00:00</lastmod>
   </url>
   <url>
-    <loc>http://robsonfvlela.github.io/tags/personal/index.html</loc>
+    <loc>http://robsonfvilela.github.io/professor/tags/personal/index.html</loc>
     <lastmod>2025-11-19T00:00:00+00:00</lastmod>
   </url>
   <url>
-    <loc>http://robsonfvlela.github.io/tags/index.html</loc>
+    <loc>http://robsonfvilela.github.io/professor/tags/index.html</loc>
     <lastmod>2025-11-19T00:00:00+00:00</lastmod>
   </url>
   <url>
-    <loc>http://robsonfvlela.github.io/index.html</loc>
+    <loc>http://robsonfvilela.github.io/professor/index.html</loc>
     <lastmod>2024-06-20T00:00:00+00:00</lastmod>
   </url>
   <url>
-    <loc>http://robsonfvlela.github.io/redacao/hugo/index.html</loc>
+    <loc>http://robsonfvilela.github.io/professor/redacao/index.html</loc>
     <lastmod>2024-06-20T00:00:00+00:00</lastmod>
   </url>
   <url>
-    <loc>http://robsonfvlela.github.io/tags/hugo/index.html</loc>
+    <loc>http://robsonfvilela.github.io/professor/tags/terminal/index.html</loc>
     <lastmod>2024-06-20T00:00:00+00:00</lastmod>
   </url>
   <url>
-    <loc>http://robsonfvlela.github.io/redacao/index.html</loc>
-    <lastmod>2024-06-20T00:00:00+00:00</lastmod>
+    <loc>http://robsonfvilela.github.io/professor/gramatica/classes_de_palavras/preposicoes/index.html</loc>
   </url>
   <url>
-    <loc>http://robsonfvlela.github.io/tags/terminal/index.html</loc>
-    <lastmod>2024-06-20T00:00:00+00:00</lastmod>
+    <loc>http://robsonfvilela.github.io/professor/gramatica/classes_de_palavras/conjucoes/index.html</loc>
   </url>
   <url>
-    <loc>http://robsonfvlela.github.io/gramatica/classes_de_palavras/preposicoes/index.html</loc>
+    <loc>http://robsonfvilela.github.io/professor/categories/index.html</loc>
   </url>
   <url>
-    <loc>http://robsonfvlela.github.io/gramatica/classes_de_palavras/conjucoes/index.html</loc>
+    <loc>http://robsonfvilela.github.io/professor/tags/git/index.html</loc>
   </url>
   <url>
-    <loc>http://robsonfvlela.github.io/categories/index.html</loc>
+    <loc>http://robsonfvilela.github.io/professor/redacao/git/index.html</loc>
   </url>
   <url>
-    <loc>http://robsonfvlela.github.io/redacao/terminal/index.html</loc>
+    <loc>http://robsonfvilela.github.io/professor/gramatica/index.html</loc>
   </url>
   <url>
-    <loc>http://robsonfvlela.github.io/tags/fun/index.html</loc>
+    <loc>http://robsonfvilela.github.io/professor/literatura/index.html</loc>
   </url>
   <url>
-    <loc>http://robsonfvlela.github.io/tags/git/index.html</loc>
+    <loc>http://robsonfvilela.github.io/professor/tags/mac/index.html</loc>
   </url>
   <url>
-    <loc>http://robsonfvlela.github.io/redacao/git/index.html</loc>
-  </url>
-  <url>
-    <loc>http://robsonfvlela.github.io/gramatica/index.html</loc>
-  </url>
-  <url>
-    <loc>http://robsonfvlela.github.io/literatura/index.html</loc>
-  </url>
-  <url>
-    <loc>http://robsonfvlela.github.io/tags/mac/index.html</loc>
-  </url>
-  <url>
-    <loc>http://robsonfvlela.github.io/tags/morfologia/index.html</loc>
-  </url>
-  <url>
-    <loc>http://robsonfvlela.github.io/tags/tutorial/index.html</loc>
-  </url>
-  <url>
-    <loc>http://robsonfvlela.github.io/tags/vim/index.html</loc>
-  </url>
-  <url>
-    <loc>http://robsonfvlela.github.io/redacao/vim-keys/index.html</loc>
+    <loc>http://robsonfvilela.github.io/professor/tags/morfologia/index.html</loc>
   </url>
 </urlset>
