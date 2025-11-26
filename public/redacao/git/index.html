@@ -1,0 +1,408 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" itemscope itemtype="http://schema.org/Article" data-r-output-format="html">
+  <head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+    <meta charset="utf-8">
+    <meta name="viewport" content="height=device-height, width=device-width, initial-scale=1.0, minimum-scale=1.0">
+    <meta name="generator" content="Hugo 0.152.2">
+    <meta name="generator" content="Relearn 8.2.0+f69a085322cc70b3e14577c0823c5bc781ec6bb2">
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <meta name="twitter:card" content="summary">
+    <meta name="twitter:title" content="GIT :: Robson">
+    <meta property="og:url" content="http://localhost:1313/redacao/git/index.html">
+    <meta property="og:site_name" content="Robson">
+    <meta property="og:title" content="GIT :: Robson">
+    <meta property="og:locale" content="en">
+    <meta property="og:type" content="article">
+    <meta property="article:section" content="Redação">
+    <meta property="article:tag" content="Terminal">
+    <meta property="article:tag" content="Git">
+    <meta property="article:tag" content="Personal">
+    <meta itemprop="name" content="GIT :: Robson">
+    <meta itemprop="wordCount" content="918">
+    <meta itemprop="keywords" content="Terminal,Git,Personal">
+    <title>GIT :: Robson</title>
+    <link href="/css/auto-complete/auto-complete.min.css?1764159345" rel="stylesheet">
+    <script src="/js/auto-complete/auto-complete.min.js?1764159345" defer></script>
+    <script src="/js/search-lunr.js?1764159345" defer></script>
+    <script src="/js/search.js?1764159345" defer></script>
+    <script>
+      window.relearn = window.relearn || {};
+      window.relearn.index_js_url="/searchindex.en.js?1764159345";
+    </script>
+    <script src="/js/lunr/lunr.min.js?1764159345" defer></script>
+    <script src="/js/lunr/lunr.stemmer.support.min.js?1764159345" defer></script>
+    <script src="/js/lunr/lunr.multi.min.js?1764159345" defer></script>
+    <script src="/js/lunr/lunr.en.min.js?1764159345" defer></script>
+    <script>
+      window.relearn = window.relearn || {};
+      window.relearn.contentLangs=['en'];
+    </script>
+    <link href="/fonts/fontawesome/css/fontawesome-all.min.css?1764159345" rel="stylesheet" media="print" onload="this.media='all';this.onload=null;"><noscript><link href="/fonts/fontawesome/css/fontawesome-all.min.css?1764159345" rel="stylesheet"></noscript>
+    <link href="/css/perfect-scrollbar/perfect-scrollbar.min.css?1764159345" rel="stylesheet">
+    <link href="/css/theme.css?1764159345" rel="stylesheet">
+    <link href="/css/format-html.css?1764159345" rel="stylesheet" id="R-format-style">
+    <script>
+      window.relearn = window.relearn || {};
+      // configuration
+      window.relearn.min = ``;
+      window.relearn.path='\/redacao\/git\/index.html';
+      window.relearn.relBasePath='..\/..';
+      window.relearn.relBaseUri='..\/..';
+      window.relearn.absBaseUri='http:\/\/localhost:1313';
+      window.relearn.disableInlineCopyToClipboard=false;
+      window.relearn.enableBlockCodeWrap=true;
+      // legal
+      window.relearn.getItem = (s,n) => {return s.getItem(n)};
+      window.relearn.setItem = (s,n,v) => {return s.setItem(n,v)};
+      window.relearn.removeItem = (s,n) => {return s.removeItem(n)};
+      // translations
+      window.T_Copy_to_clipboard = `Copy text to clipboard`;
+      window.T_Copied_to_clipboard = `Text copied to clipboard!`;
+      window.T_Link_copied_to_clipboard = `Link copied to clipboard!`;
+      window.T_Reset_view = `Reset view`;
+      window.T_View_reset = `View reset!`;
+      window.T_No_results_found = `No results found for "{0}"`;
+      window.T_N_results_found = `{1} results found for "{0}"`;
+      window.T_Browser_unsupported_feature = `This browser doesn't support this feature`;
+      // variant stuff
+      window.relearn.themevariants = [ 'auto' ];
+      window.relearn.customvariantname = "my-custom-variant";
+      window.relearn.changeVariant = function(variant) {
+        var oldVariant = document.documentElement.dataset.rThemeVariant;
+        window.relearn.setItem(window.localStorage, window.relearn.absBaseUri + "/variant", variant);
+        document.documentElement.dataset.rThemeVariant = variant;
+        if (oldVariant != variant) {
+          document.dispatchEvent( new CustomEvent('themeVariantLoaded', { detail: { variant, oldVariant } }) );
+          window.relearn.markVariant();
+        }
+      }
+      window.relearn.markVariant = function() {
+        var variant = window.relearn.getItem(window.localStorage, window.relearn.absBaseUri + "/variant");
+        document.querySelectorAll(".R-variantswitcher select").forEach((select) => {select.value = variant;});
+      }
+      window.relearn.initVariant = function() {
+        var variant = window.relearn.getItem(window.localStorage, window.relearn.absBaseUri + "/variant") ?? "";
+        if( variant == window.relearn.customvariantname ){
+        }else if( !variant || !window.relearn.themevariants.includes(variant) ){
+          variant = window.relearn.themevariants[0];
+          window.relearn.setItem(window.localStorage, window.relearn.absBaseUri + "/variant", variant);
+        }
+        document.documentElement.dataset.rThemeVariant = variant;
+      }
+      window.relearn.initVariant();
+      window.relearn.markVariant();
+    </script>
+  </head>
+  <body class="mobile-support html" data-url="/redacao/git/index.html">
+    <div id="R-body" class="default-animation">
+      <div id="R-body-overlay"></div>
+      <nav id="R-topbar">
+        <div class="topbar-wrapper">
+          <div class="topbar-sidebar-divider"></div>
+          <div class="topbar-area topbar-area-start" data-area="start">
+            <div class="topbar-button topbar-button-sidebar" data-content-empty="disable" data-width-s="show" data-width-m="hide" data-width-l="hide">
+<span class="btn cstyle button link noborder notitle interactive"><button onclick="toggleNav()" type="button" title="Menu (CTRL&#43;ALT&#43;n)"><i class="fa-fw fas fa-bars"></i></button></span>
+            </div>
+            <div class="topbar-button topbar-button-toc" data-content-empty="hide" data-width-s="show" data-width-m="show" data-width-l="show">
+<span class="btn cstyle button link noborder notitle interactive"><button onclick="toggleTopbarFlyout(this)" type="button" title="Table of Contents (CTRL&#43;ALT&#43;t)"><i class="fa-fw fas fa-list-alt"></i></button></span>
+              <div class="topbar-content">
+                <div class="topbar-content-wrapper">
+<nav class="TableOfContents">
+  <ul>
+    <li>
+      <ul>
+        <li><a href="#comandos-básicos-do-git">Comandos básicos do Git</a>
+          <ul>
+            <li><a href="#git-init"><code>git init</code></a></li>
+            <li><a href="#git-add"><code>git add</code></a></li>
+            <li><a href="#git-commit"><code>git commit</code></a></li>
+            <li><a href="#git-status"><code>git status</code></a></li>
+            <li><a href="#git-log"><code>git log</code></a></li>
+            <li><a href="#git-diff"><code>git diff</code></a></li>
+            <li><a href="#git-rm"><code>git rm</code></a></li>
+            <li><a href="#git-mv"><code>git mv</code></a></li>
+            <li><a href="#git-config"><code>git config</code></a></li>
+          </ul>
+        </li>
+        <li><a href="#comandos-de-branch-e-merge">Comandos de branch e merge</a>
+          <ul>
+            <li><a href="#git-branchi"><code>git branchi</code></a></li>
+            <li><a href="#git-checkouti"><code>git checkouti</code></a></li>
+            <li><a href="#git-merge">`git merge``</a></li>
+            <li><a href="#git-cherry-pick"><code>git cherry-pick</code></a></li>
+            <li><a href="#git-rebase"><code>git rebase</code></a></li>
+            <li><a href="#git-tag">git tag</a></li>
+          </ul>
+        </li>
+        <li><a href="#comandos-de-repositório-remoto-git">Comandos de repositório remoto Git</a>
+          <ul>
+            <li><a href="#git-clone"><code>git clone</code></a></li>
+            <li><a href="#git-push"><code>git push</code></a></li>
+            <li><a href="#git-pull"><code>git pull</code></a></li>
+            <li><a href="#git-fetch"><code>git fetch</code></a></li>
+            <li><a href="#git-remote">`git remote``</a></li>
+            <li><a href="#git-submodule"><code>git submodule</code></a></li>
+          </ul>
+        </li>
+        <li><a href="#comandos-avançados-do-git">Comandos avançados do Git</a>
+          <ul>
+            <li><a href="#git-reset"><code>git reset</code></a></li>
+            <li><a href="#git-stash"><code>git stash</code></a></li>
+            <li><a href="#git-bisect"><code>git bisect</code></a></li>
+            <li><a href="#git-blame"><code>git blame</code></a></li>
+            <li><a href="#git-reflog"><code>git reflog</code></a></li>
+            <li><a href="#git-clean"><code>git clean</code></a></li>
+          </ul>
+        </li>
+        <li><a href="#mostar-repositório-remoto">Mostar repositório remoto</a></li>
+        <li><a href="#referências">Referências:</a></li>
+      </ul>
+    </li>
+  </ul>
+</nav>
+                </div>
+              </div>
+            </div>
+          </div>
+          <ol class="topbar-breadcrumbs breadcrumbs highlightable" itemscope itemtype="http://schema.org/BreadcrumbList"><li itemscope itemtype="https://schema.org/ListItem" itemprop="itemListElement" class=""><a itemprop="item" href="/index.html"><span itemprop="name">Bem-vindo!</span></a><meta itemprop="position" content="1">&nbsp;>&nbsp;</li><li itemscope itemtype="https://schema.org/ListItem" itemprop="itemListElement" class=""><a itemprop="item" href="/redacao/index.html"><span itemprop="name">Redação</span></a><meta itemprop="position" content="2">&nbsp;>&nbsp;</li><li itemscope itemtype="https://schema.org/ListItem" itemprop="itemListElement" class=""><span itemprop="name">GIT</span><meta itemprop="position" content="3"></li>
+          </ol>
+          <div class="topbar-area topbar-area-end" data-area="end">
+            <div class="topbar-button topbar-button-prev" data-content-empty="disable" data-width-s="show" data-width-m="show" data-width-l="show">
+<span class="btn cstyle button link noborder notitle interactive"><a href="/redacao/terminal/index.html" title="Comandos (🡐)"><i class="fa-fw fas fa-chevron-left"></i></a></span>
+            </div>
+            <div class="topbar-button topbar-button-next" data-content-empty="disable" data-width-s="show" data-width-m="show" data-width-l="show">
+<span class="btn cstyle button link noborder notitle interactive"><a href="/redacao/vim-keys/index.html" title="Vim Keys (🡒)"><i class="fa-fw fas fa-chevron-right"></i></a></span>
+            </div>
+            <div class="topbar-button topbar-button-more" data-content-empty="hide" data-width-s="show" data-width-m="show" data-width-l="show">
+<span class="btn cstyle button link noborder notitle interactive"><button onclick="toggleTopbarFlyout(this)" type="button" title="More"><i class="fa-fw fas fa-ellipsis-v"></i></button></span>
+              <div class="topbar-content">
+                <div class="topbar-content-wrapper">
+                  <div class="topbar-area topbar-area-more" data-area="more">
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </nav>
+      <div id="R-main-overlay"></div>
+      <main id="R-body-inner" class="highlightable redacao" tabindex="-1">
+        <div class="flex-block-wrapper">
+<article class="default">
+  <header class="headline">
+<div class="R-taxonomy taxonomy-tags cstyle tags" title="Tags" style="--VARIABLE-TAGS-BG-color: var(--INTERNAL-TAG-BG-color);">
+  <i class="fa-fw fas fa-layer-group"></i>
+  <ul>
+    <li><a class="term-link" href="/tags/git/index.html">Git</a></li>
+    <li><a class="term-link" href="/tags/personal/index.html">Personal</a></li>
+    <li><a class="term-link" href="/tags/terminal/index.html">Terminal</a></li>
+  </ul>
+</div>
+  </header>
+
+<h1 id="git">GIT</h1>
+
+<h2 id="comandos-básicos-do-git">Comandos básicos do Git<span class="btn cstyle anchor copyanchor scrollanchor link noborder notitle interactive"><button type="button" title="Copy link to clipboard"><i class="fa-fw fas fa-link fa-lg"></i></button></span></h2>
+<h3 id="git-init"><code>git init</code><span class="btn cstyle anchor copyanchor scrollanchor link noborder notitle interactive"><button type="button" title="Copy link to clipboard"><i class="fa-fw fas fa-link fa-lg"></i></button></span></h3>
+<p>Inicia um novo repositório Git em um diretório.</p>
+<div class="highlight actionbar-wrapper wrap-code" dir="auto"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span>git init</span></span></code></pre></div>
+<p>Cria um novo repositório enquanto especifica o nome do projeto.</p>
+<div class="highlight actionbar-wrapper wrap-code" dir="auto"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span>git init <span style="color:#f92672">[</span>nome_do_projeto<span style="color:#f92672">]</span></span></span></code></pre></div>
+<h3 id="git-add"><code>git add</code><span class="btn cstyle anchor copyanchor scrollanchor link noborder notitle interactive"><button type="button" title="Copy link to clipboard"><i class="fa-fw fas fa-link fa-lg"></i></button></span></h3>
+<p>Prepara alterações em arquivos para o próximo commit:</p>
+<div class="highlight actionbar-wrapper wrap-code" dir="auto"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span>git add nome_do_arquivo</span></span></code></pre></div>
+<p>Adiciona todos os arquivos de uma vez:</p>
+<div class="highlight actionbar-wrapper wrap-code" dir="auto"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span>git add .</span></span></code></pre></div>
+<h3 id="git-commit"><code>git commit</code><span class="btn cstyle anchor copyanchor scrollanchor link noborder notitle interactive"><button type="button" title="Copy link to clipboard"><i class="fa-fw fas fa-link fa-lg"></i></button></span></h3>
+<p>Cria uma mensagem de commit para as alterações, tornando-as parte do histórico do seu projeto:</p>
+<div class="highlight actionbar-wrapper wrap-code" dir="auto"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span>git commit -m <span style="color:#e6db74">&#34;Adicionar novo recurso&#34;</span></span></span></code></pre></div>
+<h3 id="git-status"><code>git status</code><span class="btn cstyle anchor copyanchor scrollanchor link noborder notitle interactive"><button type="button" title="Copy link to clipboard"><i class="fa-fw fas fa-link fa-lg"></i></button></span></h3>
+<p>Exibe informações importantes sobre as modificações e o status de preparação de seus arquivos.</p>
+<div class="highlight actionbar-wrapper wrap-code" dir="auto"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span>git status</span></span></code></pre></div>
+<h3 id="git-log"><code>git log</code><span class="btn cstyle anchor copyanchor scrollanchor link noborder notitle interactive"><button type="button" title="Copy link to clipboard"><i class="fa-fw fas fa-link fa-lg"></i></button></span></h3>
+<p>Permite visualizar uma lista cronológica do histórico de commits:</p>
+<div class="highlight actionbar-wrapper wrap-code" dir="auto"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span>git log</span></span></code></pre></div>
+<h3 id="git-diff"><code>git diff</code><span class="btn cstyle anchor copyanchor scrollanchor link noborder notitle interactive"><button type="button" title="Copy link to clipboard"><i class="fa-fw fas fa-link fa-lg"></i></button></span></h3>
+<p>Compara as alterações entre o diretório de trabalho e o commit mais recente. Por exemplo, <strong>esse uso</strong> do git diff identifica as diferenças em um arquivo específico:</p>
+<div class="highlight actionbar-wrapper wrap-code" dir="auto"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span>git diff arquivo1.txt</span></span></code></pre></div>
+<p>Para comparar as alterações entre dois commits, use o seguinte:</p>
+<div class="highlight actionbar-wrapper wrap-code" dir="auto"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span>git diff commit1 commit2</span></span></code></pre></div>
+<h3 id="git-rm"><code>git rm</code><span class="btn cstyle anchor copyanchor scrollanchor link noborder notitle interactive"><button type="button" title="Copy link to clipboard"><i class="fa-fw fas fa-link fa-lg"></i></button></span></h3>
+<p>Remove arquivos do seu diretório de trabalho e prepara a remoção para o próximo commit.</p>
+<div class="highlight actionbar-wrapper wrap-code" dir="auto"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span>git rm arquivo1.txt</span></span></code></pre></div>
+<h3 id="git-mv"><code>git mv</code><span class="btn cstyle anchor copyanchor scrollanchor link noborder notitle interactive"><button type="button" title="Copy link to clipboard"><i class="fa-fw fas fa-link fa-lg"></i></button></span></h3>
+<p>Renomeia e move arquivos em seu diretório de trabalho. Aqui está o comando do Git para renomear um arquivo:</p>
+<div class="highlight actionbar-wrapper wrap-code" dir="auto"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span>git mv arquivo1.txt arquivo2.txt</span></span></code></pre></div>
+<p>Para mover um arquivo para um diretório diferente, digite:</p>
+<div class="highlight actionbar-wrapper wrap-code" dir="auto"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span>git mv arquivo1.txt nova_pasta/</span></span></code></pre></div>
+<h3 id="git-config"><code>git config</code><span class="btn cstyle anchor copyanchor scrollanchor link noborder notitle interactive"><button type="button" title="Copy link to clipboard"><i class="fa-fw fas fa-link fa-lg"></i></button></span></h3>
+<p>Configura vários aspectos do Git, incluindo informações e preferências do usuário. Por exemplo, digite esse comando para definir seu endereço de e-mail para os commits:</p>
+<div class="highlight actionbar-wrapper wrap-code" dir="auto"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span>git config --global user.email <span style="color:#e6db74">&#34;seu-email@exemplo.com&#34;</span></span></span></code></pre></div>
+<p>O sinalizador <code>-global</code> aplica as configurações universalmente, afetando seu repositório local.</p>
+<h2 id="comandos-de-branch-e-merge">Comandos de branch e merge<span class="btn cstyle anchor copyanchor scrollanchor link noborder notitle interactive"><button type="button" title="Copy link to clipboard"><i class="fa-fw fas fa-link fa-lg"></i></button></span></h2>
+<h3 id="git-branchi"><code>git branchi</code><span class="btn cstyle anchor copyanchor scrollanchor link noborder notitle interactive"><button type="button" title="Copy link to clipboard"><i class="fa-fw fas fa-link fa-lg"></i></button></span></h3>
+<p>gerencia ramificações em seu repositório Git. Aqui está o uso básico do git branch para listar todas as ramificações existentes:</p>
+<div class="highlight actionbar-wrapper wrap-code" dir="auto"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span>git branch</span></span></code></pre></div>
+<p>Para criar um branch chamada “recurso”, use:</p>
+<div class="highlight actionbar-wrapper wrap-code" dir="auto"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span>git branch recurso</span></span></code></pre></div>
+<p>Renomeia um branch:</p>
+<div class="highlight actionbar-wrapper wrap-code" dir="auto"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span>git branch -m nome-do-branch novo-nome-do-branch</span></span></code></pre></div>
+<h3 id="git-checkouti"><code>git checkouti</code><span class="btn cstyle anchor copyanchor scrollanchor link noborder notitle interactive"><button type="button" title="Copy link to clipboard"><i class="fa-fw fas fa-link fa-lg"></i></button></span></h3>
+<p>Permite alternar entre ramificações e restaurar arquivos de diferentes commits.
+Mudar para um branch existente:</p>
+<div class="highlight actionbar-wrapper wrap-code" dir="auto"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span>git checkout nome_do_branch</span></span></code></pre></div>
+<p>Descarta alterações em um arquivo específico e revertê-lo para o último commit:</p>
+<div class="highlight actionbar-wrapper wrap-code" dir="auto"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span>git checkout -- nome_do_arquivo</span></span></code></pre></div>
+<h3 id="git-merge">`git merge``<span class="btn cstyle anchor copyanchor scrollanchor link noborder notitle interactive"><button type="button" title="Copy link to clipboard"><i class="fa-fw fas fa-link fa-lg"></i></button></span></h3>
+<p>Mescla um branch de recurso ou tópico no branch principal. Abaixo está um exemplo de uso do <code>git merge</code>:</p>
+<div class="highlight actionbar-wrapper wrap-code" dir="auto"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span>git merge nome_do_branch</span></span></code></pre></div>
+<h3 id="git-cherry-pick"><code>git cherry-pick</code><span class="btn cstyle anchor copyanchor scrollanchor link noborder notitle interactive"><button type="button" title="Copy link to clipboard"><i class="fa-fw fas fa-link fa-lg"></i></button></span></h3>
+<p>Permite que aplicar commits específicos de um branch para outro sem mesclar um branch inteiro.</p>
+<div class="highlight actionbar-wrapper wrap-code" dir="auto"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span>git cherry-pick commit_hash</span></span></code></pre></div>
+<h3 id="git-rebase"><code>git rebase</code><span class="btn cstyle anchor copyanchor scrollanchor link noborder notitle interactive"><button type="button" title="Copy link to clipboard"><i class="fa-fw fas fa-link fa-lg"></i></button></span></h3>
+<p>Aplica alterações de um branch do Git em outro, movendo ou combinando commits. Ele ajuda a manter um histórico de commits mais limpo:</p>
+<div class="highlight actionbar-wrapper wrap-code" dir="auto"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span>git rebase main</span></span></code></pre></div>
+<h3 id="git-tag">git tag<span class="btn cstyle anchor copyanchor scrollanchor link noborder notitle interactive"><button type="button" title="Copy link to clipboard"><i class="fa-fw fas fa-link fa-lg"></i></button></span></h3>
+<p>Marca pontos específicos em seu histórico do Git, como v1.0 ou v2.0:</p>
+<div class="highlight actionbar-wrapper wrap-code" dir="auto"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span>git tag v1.0</span></span></code></pre></div>
+<h2 id="comandos-de-repositório-remoto-git">Comandos de repositório remoto Git<span class="btn cstyle anchor copyanchor scrollanchor link noborder notitle interactive"><button type="button" title="Copy link to clipboard"><i class="fa-fw fas fa-link fa-lg"></i></button></span></h2>
+<h3 id="git-clone"><code>git clone</code><span class="btn cstyle anchor copyanchor scrollanchor link noborder notitle interactive"><button type="button" title="Copy link to clipboard"><i class="fa-fw fas fa-link fa-lg"></i></button></span></h3>
+<p>Cria uma cópia de um repositório remoto em seu computador local. Um exemplo de uso básico do <code>git clone</code> é clonar um repositório do GitHub:</p>
+<div class="highlight actionbar-wrapper wrap-code" dir="auto"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span>git clone https://github.com/username/meu-projeto.git</span></span></code></pre></div>
+<h3 id="git-push"><code>git push</code><span class="btn cstyle anchor copyanchor scrollanchor link noborder notitle interactive"><button type="button" title="Copy link to clipboard"><i class="fa-fw fas fa-link fa-lg"></i></button></span></h3>
+<p>Envia os commits do branch local do Git para um repositório remoto, atualizando-o com suas alterações mais recentes.
+Se desejar enviar as das alterações do repositório local chamado “principal” para o repositório remoto chamado “origem”:</p>
+<div class="highlight actionbar-wrapper wrap-code" dir="auto"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span>git push origem principal</span></span></code></pre></div>
+<h3 id="git-pull"><code>git pull</code><span class="btn cstyle anchor copyanchor scrollanchor link noborder notitle interactive"><button type="button" title="Copy link to clipboard"><i class="fa-fw fas fa-link fa-lg"></i></button></span></h3>
+<p>Obtém e integra as alterações de um repositório remoto em seu branch local atual. Aqui está um exemplo de uso do git pull para extrair alterações do branch principal:</p>
+<div class="highlight actionbar-wrapper wrap-code" dir="auto"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span>git pull origem mestre</span></span></code></pre></div>
+<h3 id="git-fetch"><code>git fetch</code><span class="btn cstyle anchor copyanchor scrollanchor link noborder notitle interactive"><button type="button" title="Copy link to clipboard"><i class="fa-fw fas fa-link fa-lg"></i></button></span></h3>
+<p>Recupera novos commits de um repositório remoto sem mesclá-los automaticamente em seu branch atual, use este comando:</p>
+<div class="highlight actionbar-wrapper wrap-code" dir="auto"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span>git fetch origem</span></span></code></pre></div>
+<h3 id="git-remote">`git remote``<span class="btn cstyle anchor copyanchor scrollanchor link noborder notitle interactive"><button type="button" title="Copy link to clipboard"><i class="fa-fw fas fa-link fa-lg"></i></button></span></h3>
+<p>Gerencia os repositórios remotos associados ao seu repositório local.
+Lista os repositórios remotos configurados no projeto:</p>
+<div class="highlight actionbar-wrapper wrap-code" dir="auto"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span>git remote</span></span></code></pre></div>
+<p>Lista os nomes e as URL associadas a cada diretório remoto:</p>
+<div class="highlight actionbar-wrapper wrap-code" dir="auto"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span>git remote -v</span></span></code></pre></div>
+<p>Para adicionar um novo repositório remoto, especifique seu nome e URL:</p>
+<div class="highlight actionbar-wrapper wrap-code" dir="auto"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span>git remote add origem https://github.com/username/origem.git</span></span></code></pre></div>
+<h3 id="git-submodule"><code>git submodule</code><span class="btn cstyle anchor copyanchor scrollanchor link noborder notitle interactive"><button type="button" title="Copy link to clipboard"><i class="fa-fw fas fa-link fa-lg"></i></button></span></h3>
+<p>Usado para gerenciar repositórios separados incorporados dentro de um repositório Git.
+Para adicionar um submódulo ao seu repositório principal, use:</p>
+<div class="highlight actionbar-wrapper wrap-code" dir="auto"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span>git submodule add https://github.com/username/submodule-repo.git caminho/do/submodulo</span></span></code></pre></div>
+<h2 id="comandos-avançados-do-git">Comandos avançados do Git<span class="btn cstyle anchor copyanchor scrollanchor link noborder notitle interactive"><button type="button" title="Copy link to clipboard"><i class="fa-fw fas fa-link fa-lg"></i></button></span></h2>
+<h3 id="git-reset"><code>git reset</code><span class="btn cstyle anchor copyanchor scrollanchor link noborder notitle interactive"><button type="button" title="Copy link to clipboard"><i class="fa-fw fas fa-link fa-lg"></i></button></span></h3>
+<p>Desfaz alterações e manipula o histórico de commits.</p>
+<div class="highlight actionbar-wrapper wrap-code" dir="auto"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span>git reset arquivo1.txt</span></span></code></pre></div>
+<h3 id="git-stash"><code>git stash</code><span class="btn cstyle anchor copyanchor scrollanchor link noborder notitle interactive"><button type="button" title="Copy link to clipboard"><i class="fa-fw fas fa-link fa-lg"></i></button></span></h3>
+<p>Armazena alterações temporárias que ainda não estão prontas para receber o commit.</p>
+<div class="highlight actionbar-wrapper wrap-code" dir="auto"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span>git stash</span></span></code></pre></div>
+<p>Para ver uma lista dos armazenamentos temporários:</p>
+<div class="highlight actionbar-wrapper wrap-code" dir="auto"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span>git stash list</span></span></code></pre></div>
+<p>Para aplicar a alteração mais recente e removê-la da lista de alterações temporárias:</p>
+<div class="highlight actionbar-wrapper wrap-code" dir="auto"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span>git stash pop</span></span></code></pre></div>
+<h3 id="git-bisect"><code>git bisect</code><span class="btn cstyle anchor copyanchor scrollanchor link noborder notitle interactive"><button type="button" title="Copy link to clipboard"><i class="fa-fw fas fa-link fa-lg"></i></button></span></h3>
+<p>Usado principalmente para identificar bugs ou problemas no histórico do seu projeto.
+Para iniciar o processo de bissecção:</p>
+<div class="highlight actionbar-wrapper wrap-code" dir="auto"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span>git bisect start</span></span></code></pre></div>
+<p>Usando o comando abaixo, o Git navegará automaticamente pelos commits para encontrar os que apresentam problemas:</p>
+<div class="highlight actionbar-wrapper wrap-code" dir="auto"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span>git bisect run &lt;test-script&gt;</span></span></code></pre></div>
+<h3 id="git-blame"><code>git blame</code><span class="btn cstyle anchor copyanchor scrollanchor link noborder notitle interactive"><button type="button" title="Copy link to clipboard"><i class="fa-fw fas fa-link fa-lg"></i></button></span></h3>
+<p>Determina o autor e a alteração mais recente em cada linha do arquivo:</p>
+<div class="highlight actionbar-wrapper wrap-code" dir="auto"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span>git blame arquivo1.txt</span></span></code></pre></div>
+<h3 id="git-reflog"><code>git reflog</code><span class="btn cstyle anchor copyanchor scrollanchor link noborder notitle interactive"><button type="button" title="Copy link to clipboard"><i class="fa-fw fas fa-link fa-lg"></i></button></span></h3>
+<p>Faz um registro das alterações de um branch do Git. Ele permite que você acompanhe a linha do tempo do seu repositório, mesmo quando os commits são excluídos ou perdidos:</p>
+<div class="highlight actionbar-wrapper wrap-code" dir="auto"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span>git reflog</span></span></code></pre></div>
+<h3 id="git-clean"><code>git clean</code><span class="btn cstyle anchor copyanchor scrollanchor link noborder notitle interactive"><button type="button" title="Copy link to clipboard"><i class="fa-fw fas fa-link fa-lg"></i></button></span></h3>
+<p>Remove arquivos não rastreados de seu diretório de trabalho, o que resulta em um repositório mais limpo e organizado:</p>
+<div class="highlight actionbar-wrapper wrap-code" dir="auto"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span>git clean <span style="color:#f92672">[</span>options<span style="color:#f92672">]</span></span></span></code></pre></div>
+<p>As [options] podem ser personalizadas com base em suas necessidades específicas, como -n para uma execução seca (dry run), -f para forçar ou -d para diretórios.</p>
+<h2 id="mostar-repositório-remoto">Mostar repositório remoto<span class="btn cstyle anchor copyanchor scrollanchor link noborder notitle interactive"><button type="button" title="Copy link to clipboard"><i class="fa-fw fas fa-link fa-lg"></i></button></span></h2>
+<ul>
+<li><code>git remote -v</code>: Mostra o repositório remoto.</li>
+<li><code>git remote get-url origin</code>: Mostra apenas o URL do repositório remoto.</li>
+<li><code>git remote get-url --push &lt;nome-do-remoto&gt;</code>: Se tiver mais de um remoto (ex.: upstrem, fork, etc.)</li>
+<li><code>git remote show origin</code>: Mostra detalhes completos da configuração.</li>
+<li><code>git config --get remote.origin.url</code>: Mostra só o push do origin do repositório remoto atual.</li>
+</ul>
+<h2 id="referências">Referências:<span class="btn cstyle anchor copyanchor scrollanchor link noborder notitle interactive"><button type="button" title="Copy link to clipboard"><i class="fa-fw fas fa-link fa-lg"></i></button></span></h2>
+<p><a href="https://www.hostinger.com/br/tutoriais/comandos-git?utm_campaign=Generic-Tutorials-DSA-t3%7CNT:Se%7CLO:BR&utm_medium=ppc&gad_source=1&gad_campaignid=19588998604&gbraid=0AAAAADMy-hbelzrSz2wqeXvzkYn-l-XdG&gclid=Cj0KCQiA5abIBhCaARIsAM3-zFUZ2nhGcfS3FwDh4lO8-EVh3HABQ3_3lhxkMlaAeAIDPr3fa4bUg6YaAiniEALw_wcB" rel="external">Comandos Git: uma lista dos mais usados para simplificar seu trabalho</a>. Disponível em: &lt;https://www.hostinger.com/br/tutoriais/comandos-git?utm_campaign=Generic-Tutorials-DSA-t3%7CNT:Se%7CLO:BR&amp;utm_medium=ppc&amp;gad_source=1&amp;gad_campaignid=19588998604&amp;gbraid=0AAAAADMy-hbelzrSz2wqeXvzkYn-l-XdG&amp;gclid=Cj0KCQiA5abIBhCaARIsAM3-zFUZ2nhGcfS3FwDh4lO8-EVh3HABQ3_3lhxkMlaAeAIDPr3fa4bUg6YaAiniEALw_wcB&gt;. Acesso em: 04 nov. 2025.</p>
+  <footer class="footline">
+  </footer>
+</article>
+        </div>
+      </main>
+    </div>
+    <aside id="R-sidebar" class="default-animation">
+      <div id="R-header-topbar" class="default-animation"></div>
+      <div id="R-header-wrapper" class="default-animation">
+        <div id="R-header" class="default-animation">
+          <a id="R-logo" class="R-default" href="/index.html">
+            <div class="logo-title">Robson</div>
+          </a>
+        </div>
+        <search><form action="/search/index.html" method="get">
+          <div class="searchbox default-animation">
+            <button class="search-detail" type="submit" title="Search (CTRL+ALT+f)"><i class="fas fa-search"></i></button>
+            <label class="a11y-only" for="R-search-by">Search</label>
+            <input data-search-input id="R-search-by" name="search-by" class="search-by" type="search" placeholder="Search...">
+            <button class="search-clear" type="button" data-search-clear="" title="Clear search"><i class="fas fa-times" title="Clear search"></i></button>
+          </div>
+        </form></search>
+      </div>
+      <div id="R-homelinks" class="default-animation homelinks">
+        <div class="R-menu-divider default-animation">
+          <hr class="padding">
+        </div>
+        <div class="R-sidebarmenu R-shortcutmenu-homelinks">
+          <ul class="space collapsible-menu">
+            <li class="" data-nav-url="/index.html"><a class="padding" href="/index.html"><i class="fa-fw fas fa-home"></i> Home</a></li>
+          </ul>
+        </div>
+        <div class="R-menu-divider default-animation">
+          <hr class="padding">
+        </div>
+        <div class="R-sidebarmenu R-shortcutmenu-headercontrols">
+          <ul class="">
+          </ul>
+        </div>
+        <div class="R-menu-divider default-animation">
+          <hr class="padding">
+        </div>
+      </div>
+      <div id="R-content-wrapper" class="highlightable">
+        <div class="R-sidebarmenu R-shortcutmenu-main">
+          <ul class="enlarge morespace collapsible-menu">
+            <li class="" data-nav-url="/posts/index.html"><a class="padding" href="/posts/index.html">Posts</a><ul id="R-subsections-b4e55eb7e39db1aee6d02808a2267090" class="collapsible-menu"></ul></li>
+            <li class="" data-nav-url="/about/index.html"><a class="padding" href="/about/index.html">About Me</a></li>
+            <li class="parent " data-nav-url="/redacao/index.html"><a class="padding" href="/redacao/index.html">Redação</a><ul id="R-subsections-6ab0c054a69b3e648dd12c8430405593" class="collapsible-menu">
+            <li class="" data-nav-url="/redacao/hugo/index.html"><a class="padding" href="/redacao/hugo/index.html">Hugo</a></li>
+            <li class="" data-nav-url="/redacao/terminal/index.html"><a class="padding" href="/redacao/terminal/index.html">Comandos</a></li>
+            <li class="active " data-nav-url="/redacao/git/index.html"><a class="padding" href="/redacao/git/index.html">GIT</a></li>
+            <li class="" data-nav-url="/redacao/vim-keys/index.html"><a class="padding" href="/redacao/vim-keys/index.html">Vim Keys</a></li></ul></li>
+            <li class="" data-nav-url="/gramatica/index.html"><a class="padding" href="/gramatica/index.html">Gramática</a><ul id="R-subsections-22f465cdf77134dbfb6f4f65d98b127c" class="collapsible-menu"></ul></li>
+            <li class="" data-nav-url="/literatura/index.html"><a class="padding" href="/literatura/index.html">Literatura</a></li>
+          </ul>
+        </div>
+        <div class="R-sidebarmenu R-shortcutmenu-shortcuts">
+          <ul class="space collapsible-menu">
+          </ul>
+        </div>
+        <div id="R-footer-margin"></div>
+        <div class="R-menu-divider default-animation">
+          <hr class="padding">
+        </div>
+        <div class="R-sidebarmenu R-shortcutmenu-footercontrols">
+          <ul class="">
+          </ul>
+        </div>
+<div id="R-footer"><p>Built with <a href="https://github.com/McShelby/hugo-theme-relearn" title="love"><i class="fas fa-heart"></i></a> by <a href="https://gohugo.io/">Hugo</a></p></div>
+      </div>
+    </aside>
+    <script src="/js/perfect-scrollbar/perfect-scrollbar.min.js?1764159345" defer></script>
+    <script src="/js/theme.js?1764159345" defer></script>
+    <div id="toast-container" role="status" aria-live="polite" aria-atomic="false"></div>
+  </body>
+</html>
