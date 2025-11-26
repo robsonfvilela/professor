@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Mac :: Tag :: Robson</title>
-    <link>http://localhost:1313/tags/mac/index.html</link>
+    <link>http://robsonfvlela.github.io/tags/mac/index.html</link>
     <description></description>
     <generator>Hugo</generator>
     <language>en</language>
-    <atom:link href="http://localhost:1313/tags/mac/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://robsonfvlela.github.io/tags/mac/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>09. Conjuções</title>
-      <link>http://localhost:1313/gramatica/classes_de_palavras/conjucoes/index.html</link>
+      <link>http://robsonfvlela.github.io/gramatica/classes_de_palavras/conjucoes/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/gramatica/classes_de_palavras/conjucoes/index.html</guid>
+      <guid>http://robsonfvlela.github.io/gramatica/classes_de_palavras/conjucoes/index.html</guid>
       <description>Conjunções Subordinativas As conjunções subordinativas inserem uma oração na outra, estabelecendo entre elas uma relação de dependência sintática. Elas podem ser: as integrantes e as adverbiais.&#xA;As integrantes são as conjunções que e se quando introduzem orações que funcionam como sujeito, objeto direto, objeto indireto, predicativo, complemento nominal ou aposto da oração principall&#xA;Acredito | no sucesso dele. Acredito O.P. | que ele terá sucesso O.S.S.O.D.. Acredito [OP] | que ele terá sucesso em Paris [OSSOD]. Adverbiais As conjunções adverbiais classificam-se em:</description>
     </item>
     <item>
       <title>Gramática</title>
-      <link>http://localhost:1313/gramatica/index.html</link>
+      <link>http://robsonfvlela.github.io/gramatica/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/gramatica/index.html</guid>
+      <guid>http://robsonfvlela.github.io/gramatica/index.html</guid>
       <description>MacOS</description>
     </item>
   </channel>
