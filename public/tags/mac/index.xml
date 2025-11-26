@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Mac :: Tag :: Robson</title>
+    <title>Mac :: Tag :: Prof. Robson</title>
     <link>http://robsonfvilela.github.io/professor/tags/mac/index.html</link>
     <description></description>
     <generator>Hugo</generator>
@@ -19,7 +19,7 @@
       <link>http://robsonfvilela.github.io/professor/gramatica/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://robsonfvilela.github.io/professor/gramatica/index.html</guid>
-      <description>MacOS</description>
+      <description>Gramática</description>
     </item>
   </channel>
 </rss>

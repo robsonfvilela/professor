@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Bem-vindo! :: Robson</title>
+    <title>Dedicatória :: Prof. Robson</title>
     <link>http://robsonfvilela.github.io/professor/index.html</link>
-    <description>“Ao verme que primeiro roeu as frias carnes do meu cadáver dedico como saudosa lembrança estas memórias póstumas”.&#xA;— Brás Cubas (Machado de Assis)</description>
+    <description>“Ao verme que primeiro roeu as frias carnes do meu cadáver dedico como saudosa lembrança estas memórias póstumas”. — Brás Cubas, de Machado de Assis (dedicatória do livro)&#xA;Chamem-me simplesmente Ismael. Aqui há uns anos não me peçam para ser mais preciso —, tendo-me dado conta de que o meu porta-moedas estava quase vazio, decidi voltar a navegar, ou seja, aventurar-me de novo pelas vastas planícies líquidas do Mundo. — Moby Dick, de Herman Melville</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Thu, 20 Nov 2025 00:37:45 -0300</lastBuildDate>
@@ -16,7 +16,7 @@
       <description></description>
     </item>
     <item>
-      <title>About Me</title>
+      <title>Biografia</title>
       <link>http://robsonfvilela.github.io/professor/about/index.html</link>
       <pubDate>Wed, 19 Nov 2025 00:00:00 +0000</pubDate>
       <guid>http://robsonfvilela.github.io/professor/about/index.html</guid>
@@ -27,14 +27,14 @@
       <link>http://robsonfvilela.github.io/professor/redacao/index.html</link>
       <pubDate>Thu, 20 Jun 2024 00:00:00 +0000</pubDate>
       <guid>http://robsonfvilela.github.io/professor/redacao/index.html</guid>
-      <description>Terminal</description>
+      <description>Redação</description>
     </item>
     <item>
       <title>Gramática</title>
       <link>http://robsonfvilela.github.io/professor/gramatica/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://robsonfvilela.github.io/professor/gramatica/index.html</guid>
-      <description>MacOS</description>
+      <description>Gramática</description>
     </item>
     <item>
       <title>Literatura</title>

@@ -31,20 +31,20 @@ theme = 'hugo-theme-relearn'
 [languages]
   [languages.en]
     languageName = "English"
-    title = "Robson"
+    title = "Prof. Robson"
 
     [languages.en.params]
       subtitle = "A simple, retro theme for Hugo"
       owner = ""
       keywords = ""
       copyright = ""
-      menuMore = "Show more"
-      readMore = "Read more"
-      readOtherPosts = "Read other posts"
-      newerPosts = "Newer posts"
-      olderPosts = "Older posts"
-      missingContentMessage = "Page not found..."
-      missingBackButtonLabel = "Back to home page"
+      menuMore = "Mostrar mais"
+      readMore = "Leia mais"
+      readOtherPosts = "Leita outras postagens"
+      newerPosts = "Postagens novas"
+      olderPosts = "Postagens velhas"
+      missingContentMessage = "Página ..."
+      missingBackButtonLabel = "Voltar ao início"
       minuteReadingTime = "min read"
       words = "words"
 
@@ -54,8 +54,8 @@ theme = 'hugo-theme-relearn'
 
       [languages.en.menu]
         [[languages.en.menu.main]]
-          identifier = "about"
-          name = " About"
+          identifier = "biografia"
+          name = " Biografia"
           url = "/about"  
       [[languages.en.menu.main]]
           identifier = "config"

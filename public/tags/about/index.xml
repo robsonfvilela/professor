@@ -1,26 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>About :: Tag :: Robson</title>
+    <title>About :: Tag :: Prof. Robson</title>
     <link>http://robsonfvilela.github.io/professor/tags/about/index.html</link>
     <description></description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 19 Nov 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 20 Jun 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://robsonfvilela.github.io/professor/tags/about/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>About Me</title>
-      <link>http://robsonfvilela.github.io/professor/about/index.html</link>
-      <pubDate>Wed, 19 Nov 2025 00:00:00 +0000</pubDate>
-      <guid>http://robsonfvilela.github.io/professor/about/index.html</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Bem-vindo!</title>
+      <title>Dedicatória</title>
       <link>http://robsonfvilela.github.io/professor/index.html</link>
       <pubDate>Thu, 20 Jun 2024 00:00:00 +0000</pubDate>
       <guid>http://robsonfvilela.github.io/professor/index.html</guid>
-      <description>“Ao verme que primeiro roeu as frias carnes do meu cadáver dedico como saudosa lembrança estas memórias póstumas”.&#xA;— Brás Cubas (Machado de Assis)</description>
+      <description>“Ao verme que primeiro roeu as frias carnes do meu cadáver dedico como saudosa lembrança estas memórias póstumas”. — Brás Cubas, de Machado de Assis (dedicatória do livro)&#xA;Chamem-me simplesmente Ismael. Aqui há uns anos não me peçam para ser mais preciso —, tendo-me dado conta de que o meu porta-moedas estava quase vazio, decidi voltar a navegar, ou seja, aventurar-me de novo pelas vastas planícies líquidas do Mundo. — Moby Dick, de Herman Melville</description>
     </item>
     <item>
       <title>Literatura</title>

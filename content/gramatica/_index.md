@@ -5,4 +5,4 @@ draft: false
 tags: [mac]
 ---
 
-## MacOS
+## Gramática

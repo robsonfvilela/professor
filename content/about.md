@@ -1,7 +1,7 @@
 ---
-title: About Me
+title: Biografia
 date: 2025-11-19
-tags: [about, personal]
+tags: [Biografia]
 draft: false
 ---
 

@@ -2,7 +2,7 @@
 title: GIT
 # date: 2025-11-19
 tags: [terminal, git, personal]
-draft: false
+draft: true
 ---
 
 <!--more-->

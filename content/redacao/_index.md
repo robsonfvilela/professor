@@ -4,4 +4,4 @@ title: "Redação"
 tags: [terminal]
 ---
 
-## Terminal
+## Redação
